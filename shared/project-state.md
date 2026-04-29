@@ -25,3 +25,5 @@ Motivo: sem formalização = frustração crescente. Com = clareza + upside R$10
 - Posicionamento: CTO de Plantão
 - Modelo: Retainer R$2k/mês + tabela 80% desconto família
 - Stack aprovada: Vercel + Next.js/Astro (Lovable = morta)
+- Análise de custo‑benefício disponível: [[analise-custo-beneficio-retainer-holos]]
+- Prompts para análise com IA: [[prompts-para-analise-retainer]]
