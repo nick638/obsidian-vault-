@@ -27,3 +27,6 @@ Motivo: sem formalização = frustração crescente. Com = clareza + upside R$10
 - Stack aprovada: Vercel + Next.js/Astro (Lovable = morta)
 - Análise de custo‑benefício disponível: [[analise-custo-beneficio-retainer-holos]]
 - Prompts para análise com IA: [[prompts-para-analise-retainer]]
+
+---
+_Teste de escrita bidirecional: editado por Jarvis (OpenClaw) em 2026‑04‑29 12:08._
