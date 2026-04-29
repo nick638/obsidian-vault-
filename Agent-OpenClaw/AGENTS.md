@@ -249,6 +249,26 @@ Think of it like a human reviewing their journal and updating their mental model
 
 The goal: Be helpful without being annoying. Check in a few times a day, do useful background work, but respect quiet time.
 
+## 🧩 Context Compaction & Memory Extraction
+
+O OpenClaw compacta automaticamente o contexto da sessão quando o histórico excede `contextTokens`. Antes de cada compactação:
+
+1. **Extrair decisões** → `shared/decisions-log.md`
+2. **Extrair lições** → `00 - Pessoal/Insights/` (arquivo apropriado)
+3. **Extrair pendências** → `shared/pending.md`
+4. **Atualizar estado de projetos** → `shared/project-state.md`
+
+**Regra inviolável:** Sem essa extração, perde‑se 80% do contexto operacional. A compactação só deve ocorrer após a extração.
+
+**Configuração atual:**
+```json
+{
+  "compaction": { "mode": "default" },
+  "contextTokens": 160000,
+  "reserveTokensFloor": 30000
+}
+```
+
 ## Make It Yours
 
 This is a starting point. Add your own conventions, style, and rules as you figure out what works.
