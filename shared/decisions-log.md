@@ -12,6 +12,7 @@ type: shared
 - OpenClaw usa DeepSeek V3 para tarefas automáticas (custo ~R$0.50/mês)
 - Pasta shared/ = zona de encontro dos dois agentes
 - Pasta Agent-OpenClaw/ = escrita exclusiva do OpenClaw
+- Modelo trocado para tencent/hy3-preview:free
 
 ## 2026-04-26
 - Vault transformado LLM-native: trio KERNEL + SCHEMA + ARQUETIPO_HACKER

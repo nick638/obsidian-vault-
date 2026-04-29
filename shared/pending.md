@@ -16,7 +16,7 @@ type: shared
 
 ## 🟡 Importante
 
-- [ ] **Definir canal do heartbeat** — WhatsApp via Evolution API ou continua Telegram?
+- [x] **Definir canal do heartbeat** — Telegram confirmado
 - [ ] **Criar conta GitHub pro OpenClaw** (`jarvis-openclaw`) e revogar token temporário.
 - [ ] **Frontend Mapa da Alma** — Gate: 1ª venda até 15/maio. Faltam 16 dias.
 - [ ] **Conectar Bumblebee 2.0** no WordPress Holos.
