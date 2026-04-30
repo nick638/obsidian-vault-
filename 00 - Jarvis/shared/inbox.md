@@ -23,7 +23,7 @@ CREATED: YYYY-MM-DD HH:MM
 
 ## Tarefas
 
-STATUS: PENDING
+STATUS: DONE
 FROM: openclaw
 TO: executor
 TASK: Implementar sistema shared/outputs/ — criar estrutura de pastas e arquivos para cada agente depositar resultado parcial durante execução da cadeia. Estrutura: 00 - Jarvis/shared/outputs/01-pesquisador.md, 02-estrategista.md, 03-copy-master.md, 04-designer.md, 05-final-jarvis-ceo.md. Cada arquivo deve ter template com: agente, etapa, input recebido, output gerado, timestamp. Também atualizar os agentes para escreverem seus resultados parciais nesses arquivos ANTES de passar pro próximo agente na cadeia.
