@@ -6,6 +6,19 @@ type: shared
 
 # Decisions Log
 
+## 2026-04-30
+- GSD (get-shit-done) instalado globalmente no Claude Code (85 skills, 33 agentes, 4 hooks)
+- Regra permanente: toda tarefa atômica + documentada no vault na hora
+- Estratégia rotina: 30min sem tela ao acordar → 1 tarefa difícil primeiro → máx 3 itens/dia
+
+## 2026-04-22
+- Estratégia financeira família: âncora R$3k (pai + mãe juntos) → fechar em R$2k/mês
+- Referência de modelagem do Jarvis: Thiago Finch (sistema de IA visto em vídeo, 04-21)
+
+## 2026-04-20
+- Holos Connect: criadas novas rotas no WordPress para páginas de cursos da Holos
+- WordPress + Elementor usado para site Holos (Nicholas tem acesso admin)
+
 ## 2026-04-29
 - Vault sincronizado no GitHub: https://github.com/nick638/obsidian-vault-
 - Arquitetura decidida: Claude Code (vault + reasoning) + OpenClaw (proatividade + VPS)
