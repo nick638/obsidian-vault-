@@ -1,5 +1,5 @@
 ---
-updated: 2026-04-29
+updated: 2026-04-30
 actor: jarvis-claude
 type: shared
 ---
@@ -10,16 +10,16 @@ type: shared
 
 | Projeto | Status | Bloqueio | Gate |
 |---|---|---|---|
-| Lara Comercial 2 | 🔴 90% pronta | Conversa com a mãe (3 perguntas qualificação) | Mãe liberar fluxo |
-| Mapa da Alma | 🟡 build | Frontend a finalizar | 1ª venda até 15/maio |
+| Lara Comercial 2 | 🟡 pronta p/ testar | ~~Conversa mãe~~ ✅ feita | Testar end-to-end + ativar |
+| Bumblebee 2.0 | 🔴 pronto | Conectar no WordPress Holos | Deploy |
+| Proposta Formalização | 🔴 urgente | Escopo não mapeado ainda | Montar escopo → reunião pai (semana 2/mai) |
+| Mapa da Alma | 🟡 build | Frontend + decisão de âncora (Holos ou Uni?) | 1ª venda até 15/maio |
 | Holos Natureza | 🟡 funil pronto | Aprovação da tia | Tia aprovar |
 | EAD Holos | 🟡 não lançado | Fórmula de Lançamento pendente | Aplicar FL na base ZenPro |
-| Bumblebee 2.0 | 🔴 pronto | Conectar no WordPress Holos | Deploy |
-| Proposta Formalização | 🔴 urgente | Apresentar pro pai via Revolucio | Pai assinar |
 
-## Gargalo da semana (2026-04-21)
-Formalizar relação financeira com família via Revolucio.
-Motivo: sem formalização = frustração crescente. Com = clareza + upside R$10k/mês.
+## Gargalo atual (2026-04-30)
+Montar escopo completo do que Nicholas entrega pra Holos (hoje + futuro) → base da proposta de formalização.
+Prazo: antes de 5/maio (Imersão Ruptura).
 
 ## Decisões estratégicas vigentes
 - Posicionamento: CTO de Plantão

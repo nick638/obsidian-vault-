@@ -1,6 +1,6 @@
 ---
 created: 2026-04-21
-updated: 2026-04-26
+updated: 2026-04-30
 type: meta
 status: ativo
 prioridade: maxima
@@ -8,52 +8,55 @@ quando_ler: "boot de sessão, planejamento do dia, o que está ativo e bloqueado
 tags: [estrategia, prioridade, semanal, kernel, jarvis]
 ---
 
-# Prioridades da Semana
+# Prioridades da Semana (30/abr – 5/mai)
 
 > **[KERNEL BOOT FILE]** Filtro de 7 dias do Master. Se não está aqui, não existe na semana.
 
-## 1. Gargalo da Semana (2026-04-21)
+## 1. Gargalo da Semana
 > Se só uma coisa acontecer, que seja essa.
-- **Formalizar relação financeira com família (via Revolucio) até sexta.**
-- **Motivo:** Sem formalização = aumento de frustração. Com formalização = clareza + upside de R$ 10k/mês.
+- **Montar escopo completo Holos + agendar reunião formalização com pai.**
+- **Motivo:** Sem escopo definido não tem proposta. Sem proposta não tem salário novo. Tudo trava aqui.
+- **Prazo:** Antes do dia 5 (Imersão Ruptura).
 - **Base:** [[01 - Profissional/Projetos/Holos/Proposta de Formalizacao Escopo]]
 
-## 2. Matriz de Execução (Literais)
-### 🔴 Urgente e Importante
-- [ ] Revisar Proposta de Formalização (valores, escopo, script).
-- [ ] Apresentar Proposta pro pai via Revolucio.
-- [ ] Alinhar com a tia (Holos).
-- [ ] Comunicar a mãe sobre canal único (Revolucio).
-- [ ] Responder briefing Site Holos (Revolucio).
-- [ ] Processar vídeo sobre site (https://www.youtube.com/watch?v=PNmV75GH610).
+## 2. Matriz de Execução
+
+### 🔴 Urgente e Importante (fazer hoje/amanhã)
+- [ ] Montar escopo Holos: o que faz hoje + o que vai entregar (Lara, Bumblebee, EAD)
+- [ ] Revisar [[01 - Profissional/Projetos/Holos/Proposta de Formalizacao Escopo]]
+- [ ] Agendar reunião com pai (target: semana de 6/mai)
+- [ ] Conectar Bumblebee 2.0 no WordPress Holos
+- [ ] Testar fluxo end-to-end Lara (conversa mãe = feita ✅)
 
 ### 🟡 Importante, Não Urgente
-- [ ] Rede Baixada → adaptar mobile-responsivo.
-- [ ] Conversa mãe (3 perguntas Lara).
-- [ ] Conectar Bumblebee 2.0 no WordPress Holos.
-- [ ] Atualizar prompt Lara.
-- [ ] Testar fluxo end-to-end Lara no número EAD.
-- [ ] Mapa da Alma (Gate: 1ª venda 15/maio).
+- [ ] Imersão Paulo Aguiar "A Ruptura" — **dia 5/mai** (bloco reservado)
+- [ ] Definir qual produto recorrente anexar a Holos/Unimasso (Mapa da Alma?)
+- [ ] Atualizar prompt Lara
+- [ ] Mapa da Alma — gate: 1ª venda até 15/mai
 
-### 🟢 Pode Esperar
-- [ ] Negociar 15% EAD com a tia.
-- [ ] Deploy portfólio Nicolas (Vercel).
-- [ ] WordPress Unimasso no EasyPanel.
-- [ ] Conserto bicicleta (~R$ 50-60).
-- [ ] Conserto iPhone (~R$ 600).
+### 🟢 Pode Esperar (semanas 3-4 de maio)
+- [ ] Negociar 15% EAD com a tia
+- [ ] Deploy portfólio Nicolas (Vercel)
+- [ ] WordPress Unimasso no EasyPanel
+- [ ] Conserto bicicleta (~R$ 50-60)
+- [ ] Conserto iPhone (~R$ 600)
+- [ ] Pagar parcela CNH
+- [ ] Achar tênis de corrida
 
 ## 3. Decisões Estratégicas Vigentes
-- **Posicionamento:** Chief of Technology (CTO de Plantão).
-- **Modelo Financeiro:** Retainer R$ 2k/mês + Tabela c/ 80% desconto família. Preço base R$ 150-200/h.
-- **Stack Aprovada:** Vercel + Next.js/Astro. (Lovable = morta para futuro).
+- **Posicionamento:** CTO de Plantão (entrega funil + CRM + atendimento + SEO como sistema).
+- **Modelo Financeiro:** Retainer novo a definir após escopo. Base anterior: R$2k/mês + 80% desconto família.
+- **Stack Aprovada:** Vercel + Next.js/Astro. Lovable = morta.
+- **Renda extra:** Produto recorrente via marca Holos ou Unimasso (não standalone).
 
-## 4. Query Ativa
-```dataview
-TASK
-FROM "NEGÓCIOS" OR "ESTRATÉGIA"
-WHERE !completed
-LIMIT 10
+## 4. Bloqueios removidos esta semana
+- ✅ Conversa mãe sobre Lara — feita
+
+## 5. Rotina Mínima Ativa
+```
+Acordar → 30min sem tela → 1 tarefa importante (a mais difícil, PRIMEIRO) → operar
+Lista máxima: 3 itens por dia
 ```
 
 ---
-[[01 - Profissional/Areas/Estrategia/Planejamento Master]] | [[01 - Profissional/Projetos/Holos/Holos]] | [[01 - Profissional/Projetos/Lara Comercial]]
+[[Plano Maio 2026]] | [[01 - Profissional/Projetos/Holos/Holos]] | [[01 - Profissional/Projetos/Lara Comercial]]
