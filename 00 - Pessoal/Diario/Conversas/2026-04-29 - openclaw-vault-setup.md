@@ -30,6 +30,7 @@ tags: [openclaw, vault, github, jarvis, setup]
 - OpenClaw clonou vault, configurou cron pull 1x/hora
 - Vault bidirecional confirmado (OpenClaw editou project-state.md)
 - Heartbeat das 11h disparou: gate crítico = Proposta Formalização pai
+- Paths reorganizados: shared/ → 00 - Jarvis/shared/, Agent-OpenClaw/ → 00 - Jarvis/Agent-OpenClaw/
 
 ## Módulo 4 — status
 
@@ -78,4 +79,4 @@ Contexto: R$1.500/mês atual → meta R$10k/mês fim 2026.
 Gates críticos: Lara (mãe), Mapa da Alma (1ª venda 15/maio), Formalização (pai).
 
 ---
-[[KERNEL]] | [[shared/project-state]] | [[shared/pending]]
+[[KERNEL]] | [[00 - Jarvis/shared/project-state]] | [[00 - Jarvis/shared/pending]]
