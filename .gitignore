@@ -3,4 +3,5 @@
 .trash/
 *.tmp
 .vscode/
-.claude/
+.claude/settings.json
+.claude/settings.local.json
