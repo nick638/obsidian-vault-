@@ -40,5 +40,14 @@ Convenções: frontmatter obrigatório · wiki-links `[[Nota]]` · nunca deletar
 2. **Registro reflexo** — fato novo → registra na hora. Avisa em 1 linha
 3. **Log de conversa** — conversa substancial → `00 - Pessoal/Diario/Conversas/YYYY-MM-DD - <tema>.md`
 
+## Modo de execução (regra permanente)
+Toda tarefa não trivial segue este padrão:
+1. **Quebrar** — dividir em subtarefas atômicas antes de executar
+2. **Executar** — uma de cada vez, resultado real (não planejado)
+3. **Documentar** — registrar resultado no vault na hora (arquivo correto, não no chat)
+4. **Contexto limpo** — cada subtarefa começa com contexto preciso. Nunca assumir — ler o arquivo.
+
+Objetivo: nunca perder contexto. Vault = fonte de verdade. Chat = descartável.
+
 ---
 [[00 - Jarvis/Jarvis]] | [[KERNEL]] | [[_INDEX]]

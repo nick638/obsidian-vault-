@@ -43,12 +43,39 @@ Vault substitui sistema nativo do curso:
 
 Módulo 4 concluído. Próximo: Módulo 5 — Integrações & Crons.
 
+## Sessão 2 — DeepSeek fix (29/04 tarde)
+
+- DeepSeek key `sk-8b6e26f7...` salva em `~/.openclaw/auth-profiles.json` ✅
+- Auth mode mudado de `api_key` → `token` no openclaw.json ✅
+- Cron `Pull vault hourly` funcionando com DeepSeek V4 Flash direto ✅
+- Telegram @jarvism6k_bot respondendo ✅
+- HEARTBEAT.md criado em `Agent-OpenClaw/` ✅
+- Jarvis confirmou via Telegram: "Funcionando. DeepSeek V4 Flash direto na API, fallback pro V3.2 no OpenRouter." ✅
+
+## Sessão 3 — M05 Integrações (29/04 noite)
+
+- Gmail Jarvis criado: jarvis.do.nick@gmail.com ✅
+- Google Cloud OAuth configurado (projeto "jarvis", client criado) ✅
+- client_id: 869852581603-06fl757vapgggpgthtiqhije66opnbteu.apps.googleusercontent.com
+- gog CLI não instalado no VPS — Jarvis tentando instalar via Telegram
+- WhatsApp descartado por agora (risco rate limit Meta)
+- Integração Google Calendar/Gmail: próximo passo após gog instalado
+
 ## Pendências abertas
 
-- Configurar compactação no OpenClaw (contextTokens 160k, reserveTokensFloor 30k)
+- Instalar gog CLI no VPS + fazer OAuth flow com jarvis.do.nick@gmail.com
+- Criar cron heartbeat a cada 4h (HEARTBEAT.md ativo, só falta o cron)
 - Criar conta GitHub própria pro OpenClaw (jarvis-openclaw)
 - Revogar token temporário após migração
-- Definir canal heartbeat: WhatsApp (Evolution API) ou Telegram
+- Frontend Mapa da Alma — Gate: 1ª venda até 15/maio (16 dias restantes em 29/04)
+- Conversa com mãe (3 perguntas qualificação Lara) — crítico
+- Proposta Formalização pro pai via Revolucio — crítico
+
+## Planejamento maio (urgente — começa amanhã)
+
+Nicholas tem 24h para fazer planejamento completo de maio.
+Contexto: R$1.500/mês atual → meta R$10k/mês fim 2026.
+Gates críticos: Lara (mãe), Mapa da Alma (1ª venda 15/maio), Formalização (pai).
 
 ---
 [[KERNEL]] | [[shared/project-state]] | [[shared/pending]]
