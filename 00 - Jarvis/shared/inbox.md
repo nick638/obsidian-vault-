@@ -23,6 +23,10 @@ CREATED: YYYY-MM-DD HH:MM
 
 ## Tarefas
 
-<!-- OpenClaw adiciona aqui. Claude Code local processa e limpa após conclusão. -->
-
-_(vazio — nenhuma tarefa pendente)_
+STATUS: PENDING
+FROM: openclaw
+TO: executor
+TASK: Criar arquivo shared/teste-bridge.md com conteúdo "Bridge OpenClaw ↔ Escritório Local operacional. Data: 2026-04-30."
+CONTEXT: Teste de integração bidirecional entre OpenClaw (VPS) e escritório de agentes local (Claude Code). Arquivo deve ficar em 00 - Jarvis/shared/teste-bridge.md.
+PRIORITY: alta
+CREATED: 2026-04-30 14:57
