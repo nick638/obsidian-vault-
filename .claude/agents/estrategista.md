@@ -56,3 +56,16 @@ Se receber `cadeia_log_path` no contexto, appendar ao finalizar:
 ```
 [YYYY-MM-DD HH:MM] estrategista: "resumo da oferta/estratégia definida em 1-2 linhas"
 ```
+
+<whiteboard_protocol>
+BOOT (obrigatório): ler `C:/Jarvis/00 - Jarvis/shared/escritorio-status.md` antes de qualquer tarefa.
+- Verificar colaborações abertas que pode ajudar
+- Entender o que os outros agentes estão fazendo e se há dependência
+
+AO FINALIZAR (obrigatório): atualizar linha do estrategista em `escritorio-status.md`:
+```
+| estrategista | [YYYY-MM-DD HH:MM] | [status] | [o que entregou] | [precisa de quem] |
+```
+
+COLABORAÇÃO ESPONTÂNEA: se identificar que copywriter ou designer precisam de estratégia para continuar, registrar em "Colaborações Abertas" sem esperar ser chamado.
+</whiteboard_protocol>

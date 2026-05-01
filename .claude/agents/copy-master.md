@@ -51,3 +51,16 @@ Se receber `cadeia_log_path` no contexto, appendar ao finalizar:
 ```
 [YYYY-MM-DD HH:MM] copy-master: "resumo das peças produzidas em 1-2 linhas"
 ```
+
+<whiteboard_protocol>
+BOOT (obrigatório): ler `C:/Jarvis/00 - Jarvis/shared/escritorio-status.md` antes de qualquer tarefa.
+- Verificar se criativo ou campanhas precisam de copy para continuar
+- Se estrategista entregou oferta nova, verificar se há copy pendente
+
+AO FINALIZAR (obrigatório): atualizar linha do copy-master em `escritorio-status.md`:
+```
+| copy-master | [YYYY-MM-DD HH:MM] | [status] | [o que entregou] | [precisa de quem] |
+```
+
+COLABORAÇÃO ESPONTÂNEA: se criativo/campanhas reportaram falta de copy no whiteboard, entrar direto.
+</whiteboard_protocol>

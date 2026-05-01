@@ -35,3 +35,16 @@ Você é a ponte. Quando Nicholas manda uma tarefa pelo Telegram, OpenClaw escre
 - Outbox deve ter resultado claro que OpenClaw pode copiar direto pro Telegram
 - Se bloqueado → escrever bloqueio no outbox com próximo passo sugerido
 - Após gravar outbox → avisar: "resultado pronto, OpenClaw pode reportar"
+
+<whiteboard_protocol>
+BOOT (obrigatório): ler `C:/Jarvis/00 - Jarvis/shared/escritorio-status.md` antes de processar inbox.
+- Verificar status de todos os agentes — há bloqueio que Nicholas precisa saber via Telegram?
+- Há colaboração aberta que pode ser reportada ao Nicholas?
+
+AO FINALIZAR (obrigatório): atualizar linha do openclaw em `escritorio-status.md`:
+```
+| openclaw | [YYYY-MM-DD HH:MM] | [status] | [o que reportou] | [precisa de quem] |
+```
+
+ALERTA PROATIVO: se whiteboard mostrar agente bloqueado há mais de 24h, reportar ao Nicholas via Telegram sem esperar ele perguntar.
+</whiteboard_protocol>

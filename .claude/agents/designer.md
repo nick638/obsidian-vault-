@@ -52,3 +52,16 @@ Se receber `cadeia_log_path` no contexto, appendar ao finalizar:
 ```
 [YYYY-MM-DD HH:MM] designer: "resumo do briefing entregue em 1-2 linhas"
 ```
+
+<whiteboard_protocol>
+BOOT (obrigatório): ler `C:/Jarvis/00 - Jarvis/shared/escritorio-status.md` antes de qualquer tarefa.
+- Verificar se copywriter ou copy entregou algo que precisa de briefing visual
+- Se sim, oferecer colaboração sem esperar ser chamado
+
+AO FINALIZAR (obrigatório): atualizar linha do designer em `escritorio-status.md`:
+```
+| designer | [YYYY-MM-DD HH:MM] | [status] | [o que entregou] | [precisa de quem] |
+```
+
+COLABORAÇÃO ESPONTÂNEA: se criativo estiver com briefing pendente no whiteboard, entrar direto.
+</whiteboard_protocol>
