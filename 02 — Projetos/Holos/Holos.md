@@ -17,10 +17,11 @@ tags: [projeto, familia, prioridade, ativo, holos]
 - **Papel:** Nicolas (CTO/Estrategista).
 - **Conexão:** [[02 — Projetos/Familia/Flywheel Holos x Unimasso]].
 
-## 2. Desbloqueio (Diagnóstico Real)
-- **Bloqueio:** TDAH nos 10% finais (Lara 90%). Falta de dopamina na fase chata (testes/ajustes).
-- **Proteção:** "Lara que não subiu não falha".
-- **Ação:** Subir imperfeita hoje > Perfeita parada.
+## 2. Status (2026-05-02)
+- **Lara Comercial 2:** qualificação com a mãe resolvida. Deploy pendente.
+- **Holos Natureza:** evento já acontecendo. Funil não subiu — perdeu janela por ora.
+- **EAD Holos:** nada andou. Fórmula de Lançamento ainda pendente.
+- **Retainer familiar:** R$2k/mês não formalizado ainda.
 
 ## 3. Funil e Mercado (Abril 2026)
 ```

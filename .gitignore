@@ -16,3 +16,7 @@
 *.bat
 *.log
 scripts/
+
+# Dev projects (ferramentas, não notas)
+DEV/
+node_modules/

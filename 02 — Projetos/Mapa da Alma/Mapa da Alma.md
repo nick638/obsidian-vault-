@@ -136,16 +136,11 @@ Arquivo completo: `lib/quiz-questions.ts` no projeto.
 
 ---
 
-## Gate de Fechamento (atualizado 2026-04-25)
+## Status (2026-05-02)
 
-**Antes:** quiz funcionando no v0.dev + mapa na tela + WhatsApp.
-**Agora:** sistema completo construído. Próximo gate é **deploy + 1ª venda paga até 15 de maio.**
+**Não é prioridade agora.** Sistema completo construído e backend integrado. Em pausa até voltar ao radar.
 
-Subgates:
-1. **Hoje/amanhã:** rodar localmente e validar visual
-2. **Até 30/abr:** integrar Supabase + importar N8N
-3. **Até 5/maio:** deploy Vercel
-4. **Até 15/maio:** 1ª venda paga (círculo próximo)
+Gate anterior era 1ª venda até 15/mai — não perseguido ativamente.
 
 ---
 
