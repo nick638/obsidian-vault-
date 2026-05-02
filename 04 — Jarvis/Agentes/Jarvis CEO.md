@@ -1,5 +1,7 @@
 # Jarvis CEO — Prompt para Pixel Agents
 
+> [[_INDEX|← Vault]] | [[00 - Jarvis/Jarvis|← Jarvis OS]]
+
 ## Propósito
 Orquestrador geral do escritório de agentes. Recebe briefing do Nicholas, monta a cadeia certa, delega, acompanha e consolida.
 
