@@ -5,3 +5,8 @@
 .vscode/
 .claude/settings.json
 .claude/settings.local.json
+# System files (not vault notes)
+*.ps1
+*.bat
+*.log
+scripts/
