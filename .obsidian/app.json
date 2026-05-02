@@ -1,0 +1,9 @@
+{
+  "showInlineTitle": true,
+  "userIgnoreFilters": [
+    "node_modules/",
+    "DEV/",
+    ".claude/",
+    ".obsidian/"
+  ]
+}
