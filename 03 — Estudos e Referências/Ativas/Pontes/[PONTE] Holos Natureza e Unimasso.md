@@ -17,6 +17,6 @@ area: pesquisa
 - **Fase 3 (Retenção/SaaS):** O massoterapeuta formado adquire o **Unimasso** para gerir agenda e clientes. OMRR começa.
 - **Topologia de Órbita:** `Lead → Holos Natureza → Formação Holos → Unimasso SaaS`.
 
-Funil → [[01 - Profissional/Projetos/Holos/Holos - Funil Natureza]] · Destino → [[01 - Profissional/Projetos/Unimasso/Unimasso]]
+Funil → [[Projetos/Holos/Holos - Funil Natureza]] · Destino → [[Projetos/Unimasso/Unimasso]]
 
 ---

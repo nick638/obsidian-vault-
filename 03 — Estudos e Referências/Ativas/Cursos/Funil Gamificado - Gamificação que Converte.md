@@ -21,6 +21,6 @@ tags: [curso, marketing, gamificacao]
 3. **Diagnóstico/Quiz:** Efeito "Custo Afundado" progressivo (Sunk Cost Fallacy).
 4. **Processamento (Loading Fake):** Aumenta percepção de valor customizado.
 
-Aplicação Unimasso → [[01 - Profissional/Projetos/Unimasso/Unimasso]] · Execução conversacional → [[01 - Profissional/Projetos/Lara Comercial]]
+Aplicação Unimasso → [[Projetos/Unimasso/Unimasso]] · Execução conversacional → [[Projetos/Lara Comercial]]
 
 ---

@@ -33,7 +33,7 @@ tags: [aios, moc]
 
 ---
 
-Holos Sistema → [[01 - Profissional/Projetos/Holos/Holos - Sistema Técnico]]
+Holos Sistema → [[Projetos/Holos/Holos - Sistema Técnico]]
 
 ---
 *Assinado: Jarvis (Orquestrador de Conhecimento)*

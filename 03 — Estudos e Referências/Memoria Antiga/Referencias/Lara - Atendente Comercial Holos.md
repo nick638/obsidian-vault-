@@ -25,7 +25,7 @@ tags: [agente, comercial, whatsapp, holos]
 2. **Tool Integrity:** Vetado alucinação de curso. Sem fallback em DB, escala para um Humano via inbox.
 3. **Escopo vs Jarvis:** Lara é Vendas/Front-End B2C. Jarvis é OS Executivo B2B.
 
-Projeto → [[01 - Profissional/Projetos/Lara Comercial]] · Sistema → [[01 - Profissional/Projetos/Holos/Holos - Sistema Técnico]] · Framework → [[02 - Pesquisas e Estudos/Ativas/Frameworks/SPIN Selling]]
+Projeto → [[Projetos/Lara Comercial]] · Sistema → [[Projetos/Holos/Holos - Sistema Técnico]] · Framework → [[03 — Estudos e Referências/Ativas/Frameworks/SPIN Selling]]
 
 ---
 [[_INDEX]]

@@ -31,4 +31,4 @@ area: pesquisa
 - **Auditoria:** Diagnóstico de vício em ferramenta e checklist de ativação preservados. Caveman style.
 
 ---
-[[02 - Pesquisas e Estudos/Ativas/Experts/Rafael Melgaço/Protocolo R$10k com IA]] | [[02 - Pesquisas e Estudos/Ativas/Experts/Rafael Melgaço/Stack Vibe Coding]] | [[01 - Profissional/Projetos/Lara Comercial]] | [[_INDEX]]
+[[03 — Estudos e Referências/Ativas/Experts/Rafael Melgaço/Protocolo R$10k com IA]] | [[03 — Estudos e Referências/Ativas/Experts/Rafael Melgaço/Stack Vibe Coding]] | [[Projetos/Lara Comercial]] | [[_INDEX]]

@@ -36,7 +36,7 @@ tags: [stack, tech, ferramentas]
 - **Google Sheets/Calendar:** Bancos legados, APIs fáceis (Barbearia).
 - **Obsidian:** Gestão de metadados, prompt storage, cérebro.
 
-Ferramentas → [[03 - Memoria da IA/Referencias/Ferramentas de IA]] · Frontend → [[03 - Memoria da IA/Referencias/Vibe Coding]]
+Ferramentas → [[03 — Estudos e Referências/Memoria Antiga/Referencias/Ferramentas de IA]] · Frontend → [[03 — Estudos e Referências/Memoria Antiga/Referencias/Vibe Coding]]
 
 ---
-[[03 - Memoria da IA/Referencias/N8N]] | [[03 - Memoria da IA/Referencias/Evolution API]] | [[01 - Profissional/Projetos/Holos/Holos - Sistema Técnico]]
+[[03 — Estudos e Referências/Memoria Antiga/Referencias/N8N]] | [[03 — Estudos e Referências/Memoria Antiga/Referencias/Evolution API]] | [[Projetos/Holos/Holos - Sistema Técnico]]

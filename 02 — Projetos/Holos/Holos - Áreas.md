@@ -27,7 +27,7 @@ tags: [holos, estrutura, operacional, gaps]
 - **Holos Connect (Pós-Matrícula):** 900 alunos ativos no Lovable (Pai). Base para recorrência Unimasso.
 - **Sede Física:** Rua Cel. Artur Godói, 83 — Vila Mariana, SP.
 
-Soluções técnicas para os gaps → [[01 - Profissional/Projetos/Holos/Holos - Sistema Técnico]] · Stakeholders → [[01 - Profissional/Projetos/Familia/Dinâmica Familiar]]
+Soluções técnicas para os gaps → [[Holos/Holos - Sistema Técnico]] · Stakeholders → [[02 — Projetos/Familia/Dinâmica Familiar]]
 
 ---
-[[01 - Profissional/Projetos/Holos/Holos]] | [[01 - Profissional/Projetos/Holos/Holos - Sistema Técnico]] | [[01 - Profissional/Projetos/Familia/Dinâmica Familiar]]
+[[Holos/Holos]] | [[Holos/Holos - Sistema Técnico]] | [[02 — Projetos/Familia/Dinâmica Familiar]]

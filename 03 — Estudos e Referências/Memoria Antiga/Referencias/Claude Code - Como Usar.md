@@ -48,7 +48,7 @@ python C:/Users/lugzi/dev/populate-memory.py
    ```
 3. **Claudian Plugin:** Executa Code via sidebar do app.
 
-Add-ons → [[03 - Memoria da IA/Referencias/Skills e MCPs]] · Conceitual → [[03 - Memoria da IA/Referencias/Obsidian + Claude Code - Thinking Partner]]
+Add-ons → [[03 — Estudos e Referências/Memoria Antiga/Referencias/Skills e MCPs]] · Conceitual → [[03 — Estudos e Referências/Memoria Antiga/Referencias/Obsidian + Claude Code - Thinking Partner]]
 
 ---
-[[03 - Memoria da IA/Referencias/Skills e MCPs]] | [[03 - Memoria da IA/Referencias/Stack Tecnológica]] | [[00 - Pessoal/Mapa do PC]]
+[[03 — Estudos e Referências/Memoria Antiga/Referencias/Skills e MCPs]] | [[03 — Estudos e Referências/Memoria Antiga/Referencias/Stack Tecnológica]] | [[00 — Quem Sou Nicolas/Mapa do PC]]

@@ -12,7 +12,7 @@ tags: [alfred, script, voz]
 
 > **Localização:** `C:\Users\lugzi\alfred.py` (Cópia em `INBOX/IMPORT_LUGZI/alfred.py`)  
 > **Status:** Ativo  
-> **Conectado:** [[01 - Profissional/Areas/Estrategia/Arquitetura Jarvis]], [[00 - Pessoal/Como trabalho com IA]]
+> **Conectado:** [[Arquivo não encontrado — ver conteúdo migrado]], [[00 — Quem Sou Nicolas/Como trabalho com IA]]
 
 ## 🎤 Função Principal
 Assistente de voz para automação de workflow local.
@@ -31,6 +31,6 @@ Assistente de voz para automação de workflow local.
 - Integração com Opera e Claude CLI.
 
 ---
-[[03 - Memoria da IA/Referencias/Scripts Locais - dev]] | [[_INDEX]]
+[[03 — Estudos e Referências/Memoria Antiga/Referencias/Scripts Locais - dev]] | [[_INDEX]]
 
 *Assinado: Jarvis OS*

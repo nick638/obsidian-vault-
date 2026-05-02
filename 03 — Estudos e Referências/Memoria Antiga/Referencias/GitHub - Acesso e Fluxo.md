@@ -38,7 +38,7 @@ gh pr create (via nick638)
 Merge Review = Luciomaier
 ```
 
-Deploy → [[03 - Memoria da IA/Referencias/Stack Tecnológica]]
+Deploy → [[03 — Estudos e Referências/Memoria Antiga/Referencias/Stack Tecnológica]]
 
 ---
-[[03 - Memoria da IA/Referencias/Stack Tecnológica]] | [[00 - Pessoal/Mapa do PC]]
+[[03 — Estudos e Referências/Memoria Antiga/Referencias/Stack Tecnológica]] | [[00 — Quem Sou Nicolas/Mapa do PC]]

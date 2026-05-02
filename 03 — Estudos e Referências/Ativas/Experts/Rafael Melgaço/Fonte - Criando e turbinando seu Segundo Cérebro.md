@@ -25,4 +25,4 @@ area: pesquisa
 - **Auditoria:** Conceitos de Memória Atômica e Master Kit preservados. Caveman style.
 
 ---
-[[02 - Pesquisas e Estudos/Ativas/Experts/Rafael Melgaço/Método Claude Code + Obsidian]] | [[02 - Pesquisas e Estudos/Ativas/Experts/Rafael Melgaço/Protocolo R$10k com IA]] | [[03 - Memoria da IA/Stack]]
+[[03 — Estudos e Referências/Ativas/Experts/Rafael Melgaço/Método Claude Code + Obsidian]] | [[03 — Estudos e Referências/Ativas/Experts/Rafael Melgaço/Protocolo R$10k com IA]] | [[03 — Estudos e Referências/Memoria Antiga/Stack]]

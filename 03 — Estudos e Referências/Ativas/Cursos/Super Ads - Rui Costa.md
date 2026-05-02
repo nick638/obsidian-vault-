@@ -22,6 +22,6 @@ tags: [curso, trafego, branding, ads]
 ## 3. Fluxo Meta Ads
 `Pesquisa → Plataforma → Criativo → Segmentação → Monitoramento → Otimização`
 
-Aplicação → [[01 - Profissional/Projetos/Holos/Holos]] · Personal branding → [[01 - Profissional/Projetos/Nicolas Portfolio/Nicolas Portfolio]]
+Aplicação → [[Projetos/Holos/Holos]] · Personal branding → [[Projetos/Nicolas Portfolio/Nicolas Portfolio]]
 
 ---

@@ -36,7 +36,7 @@ destinatarios: Mãe + Pai (Holos paga)
 1. **Âncora:** Apresentar R$ 3.000 (R$ 1k por módulo).
 2. **Concessão Alvo:** Fechar 3 módulos por R$ 2.500 hoje.
 3. **Piso (Resistência):** R$ 2.000.
-Stakeholders → [[01 - Profissional/Projetos/Familia/Dinâmica Familiar]] · Canal de entrada → [[01 - Profissional/Projetos/Familia/Revolucio — Sistema do Pai]]
+Stakeholders → [[02 — Projetos/Familia/Dinâmica Familiar]] · Canal de entrada → [[02 — Projetos/Familia/Revolucio — Sistema do Pai]]
 
 ---
-[[01 - Profissional/Projetos/Familia/Dinâmica Familiar]] | [[01 - Profissional/Projetos/Familia/Revolucio — Sistema do Pai]] | [[01 - Profissional/Areas/Financeiro/Financeiro]]
+[[02 — Projetos/Familia/Dinâmica Familiar]] | [[02 — Projetos/Familia/Revolucio — Sistema do Pai]] | [[Arquivo não encontrado — ver conteúdo migrado]]

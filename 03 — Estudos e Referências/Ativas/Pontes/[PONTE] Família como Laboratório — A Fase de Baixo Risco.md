@@ -16,6 +16,6 @@ area: pesquisa
 - **Gargalo (Prazo de Validade):** Estagnação da inovação. Quando a Tia pedir versão 3 do mesmo sistema, a curva de aprendizado morre.
 - **Narrativa Interna:** A tese de "não tenho cases" é falsa (Gatilho emocional de exposição). Os cases já existem e estão documentados.
 
-Dinâmica → [[00 - Pessoal/Areas/Dinâmica Familiar]] · Carreira → [[00 - Pessoal/Areas/Carreira]] · Neurologia → [[00 - Pessoal/Areas/Neurologia]]
+Dinâmica → [[00 — Quem Sou Nicolas/Areas/Dinâmica Familiar]] · Carreira → [[00 — Quem Sou Nicolas/Areas/Carreira]] · Neurologia → [[00 — Quem Sou Nicolas/Areas/Neurologia]]
 
 ---

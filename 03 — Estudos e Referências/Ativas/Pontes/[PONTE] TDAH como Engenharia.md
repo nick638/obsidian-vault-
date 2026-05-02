@@ -11,7 +11,7 @@ area: pessoal
 
 > **O TDAH não é o inimigo dos sistemas. É o arquiteto silencioso de tudo que Nicolas constrói.**
 
-Diagnóstico → [[00 - Pessoal/Diagnóstico Real]] · Sistemas → [[03 - Memoria da IA/Referencias/Automação]]
+Diagnóstico → [[00 — Quem Sou Nicolas/Diagnóstico Real]] · Sistemas → [[03 — Estudos e Referências/Memoria Antiga/Referencias/Automação]]
 
 ## A relação que ninguém documenta
 
@@ -37,4 +37,4 @@ Todo sistema que Nicolas constrói resolve o problema de ter que lembrar de faze
 Esses princípios tornam os sistemas de Nicolas melhores que os de concorrentes que nunca sentiram a dor que estão resolvendo.
 
 ---
-[[00 - Pessoal/Diagnóstico Real]] | [[01 - Profissional/Projetos/Lara Comercial]] | [[_INDEX]]
+[[00 — Quem Sou Nicolas/Diagnóstico Real]] | [[Projetos/Lara Comercial]] | [[_INDEX]]

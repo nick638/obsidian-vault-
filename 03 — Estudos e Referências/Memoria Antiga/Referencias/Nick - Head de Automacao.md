@@ -29,4 +29,4 @@ Nick (Aciona Integration Sniper: Evolution API)
 ```
 
 ---
-[[03 - Memoria da IA/Referencias/Flow Master - Arquiteto de N8N]] | [[_INDEX]]
+[[03 — Estudos e Referências/Memoria Antiga/Referencias/Flow Master - Arquiteto de N8N]] | [[_INDEX]]

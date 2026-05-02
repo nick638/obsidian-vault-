@@ -25,4 +25,4 @@ area: pesquisa
 - **Auditoria:** Referências técnicas (GSAP, Locomotive Scroll) e Nano Banana Pro preservados. Caveman style.
 
 ---
-[[03 - Memoria da IA/Referencias/Claude Code - Sites e Design]] | [[03 - Memoria da IA/Referencias/Vibe Coding]] | [[_INDEX]]
+[[03 — Estudos e Referências/Memoria Antiga/Referencias/Claude Code - Sites e Design]] | [[03 — Estudos e Referências/Memoria Antiga/Referencias/Vibe Coding]] | [[_INDEX]]

@@ -16,6 +16,6 @@ area: pesquisa
 - **Solução (A Ponte):** Injetar mecânica Gamificada no System Prompt da Lara.
 - **Mecânica:** O lead responde a "desafios/perguntas" dinâmicas que culminam num diagnóstico em tempo real ("Você tem perfil para a Formação Imersiva Natureza!").
 
-Lara → [[01 - Profissional/Projetos/Lara Comercial]] · Teoria → [[02 - Pesquisas e Estudos/Ativas/Cursos/Funil Gamificado - Gamificação que Converte]]
+Lara → [[Projetos/Lara Comercial]] · Teoria → [[03 — Estudos e Referências/Ativas/Cursos/Funil Gamificado - Gamificação que Converte]]
 
 ---

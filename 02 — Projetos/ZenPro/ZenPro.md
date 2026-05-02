@@ -13,7 +13,7 @@ tags: [crm, familia, zenpro, ativos, automacao]
 > Ativo vivo: 5.768 contatos. CRM Multi-conta. Sistema pai para disparos em massa.
 
 ## 1. Infraestrutura e Status
-- **Criador:** Pai do Nicolas. Hub do pai → [[01 - Profissional/Projetos/Familia/Revolucio — Sistema do Pai]]
+- **Criador:** Pai do Nicolas. Hub do pai → [[02 — Projetos/Familia/Revolucio — Sistema do Pai]]
 - **Organização:** Holos Cursos e Terapias Ltda + Edificar.
 - **Stack:** Evolution API + Lovable + Vercel.
 - **Status:** Em Produção.
@@ -27,9 +27,9 @@ tags: [crm, familia, zenpro, ativos, automacao]
 
 ## 3. O Gap Estratégico
 ZenPro dispara *blasts* genéricos. A integração com a **Lara Comercial 2** converte isso em funil ativo:
-1. ZenPro faz o disparo em massa para 5.768 leads (Fase 1 Holos). Motor da Fase 1 (CAC Zero) → [[01 - Profissional/Projetos/Holos/Holos - Estratégia 90 Dias]]
+1. ZenPro faz o disparo em massa para 5.768 leads (Fase 1 Holos). Motor da Fase 1 (CAC Zero) → [[Holos/Holos - Estratégia 90 Dias]]
 2. Lead responde.
-3. Lara qualifica e registra no CRM_HOLOS. Oferta atrelada → [[01 - Profissional/Projetos/Holos/Holos - Cursos]]
+3. Lara qualifica e registra no CRM_HOLOS. Oferta atrelada → [[Holos/Holos - Cursos]]
 
 ---
-[[01 - Profissional/Projetos/Holos/Holos - Estratégia 90 Dias]] | [[01 - Profissional/Projetos/Lara Comercial]] | [[01 - Profissional/Projetos/Familia/Revolucio — Sistema do Pai]]
+[[Holos/Holos - Estratégia 90 Dias]] | [[Lara Comercial]] | [[02 — Projetos/Familia/Revolucio — Sistema do Pai]]

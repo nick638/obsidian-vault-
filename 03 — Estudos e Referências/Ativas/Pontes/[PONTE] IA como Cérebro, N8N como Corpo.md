@@ -18,6 +18,6 @@ area: pesquisa
   - Fluxo travou ou dado sumiu? → Erro de N8N.
   - Resposta rude ou alucinação? → Erro de GPT/Claude.
 
-N8N → [[03 - Memoria da IA/Referencias/N8N]] · Lara → [[01 - Profissional/Projetos/Lara Comercial]]
+N8N → [[03 — Estudos e Referências/Memoria Antiga/Referencias/N8N]] · Lara → [[Projetos/Lara Comercial]]
 
 ---

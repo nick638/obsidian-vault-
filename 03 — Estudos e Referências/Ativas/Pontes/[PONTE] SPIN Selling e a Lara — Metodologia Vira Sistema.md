@@ -20,6 +20,6 @@ area: pesquisa
   - **[N]ecessidade:** Solução (Holos).
 - O prompt a proíbe de pular para o N antes de passar por S, P, e I.
 
-Framework → [[02 - Pesquisas e Estudos/Ativas/Frameworks/SPIN Selling]] · Lara → [[01 - Profissional/Projetos/Lara Comercial]]
+Framework → [[03 — Estudos e Referências/Ativas/Frameworks/SPIN Selling]] · Lara → [[Projetos/Lara Comercial]]
 
 ---

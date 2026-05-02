@@ -36,7 +36,7 @@ tags: [holos, modelo-negocio, precificacao, funil, ead]
 ## 4. Gaps e Oportunidades
 - **Gap Digital:** Falta de produto < R$ 100 para lead nacional (Isca).
 - **Recorrência:** Holos Academy (Assinatura da biblioteca de 65 cursos) — 12.000 ex-alunos nunca ativados.
-Catálogo completo → [[01 - Profissional/Projetos/Holos/Holos - Cursos]] · SaaS de saída pós-formação → [[01 - Profissional/Projetos/Unimasso/Unimasso]] · Aplicação prática → [[01 - Profissional/Projetos/Holos/Holos - Funil Natureza]]
+Catálogo completo → [[Holos/Holos - Cursos]] · SaaS de saída pós-formação → [[Unimasso/Unimasso]] · Aplicação prática → [[Holos/Holos - Funil Natureza]]
 
 ---
-[[01 - Profissional/Projetos/Holos/Holos]] | [[01 - Profissional/Projetos/Unimasso/Unimasso]] | [[01 - Profissional/Projetos/Holos/Holos - Estratégia 90 Dias]]
+[[Holos/Holos]] | [[Unimasso/Unimasso]] | [[Holos/Holos - Estratégia 90 Dias]]

@@ -151,7 +151,7 @@ Setup inclui: configuração inicial + cadastro de serviços + **treinamento da 
 ---
 
 ---
-[[02 - Pesquisas e Estudos/Ativas/Experts/Afonso Lopes/Protocolo CRM Clínica Estética]] | [[01 - Profissional/Areas/Negocios]] | [[01 - Profissional/Projetos/Lara Comercial/instrucoes-ia]]
+[[03 — Estudos e Referências/Ativas/Experts/Afonso Lopes/Protocolo CRM Clínica Estética]] | [[Arquivo não encontrado — ver conteúdo migrado]] | [[Projetos/Lara Comercial/instrucoes-ia]]
 
 <!-- Template para novos vídeos:
 

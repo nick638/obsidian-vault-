@@ -11,7 +11,7 @@ area: profissional
 
 > **Sem SPIN, a Lara atende. Com SPIN, a Lara vende.**
 
-Método → [[02 - Pesquisas e Estudos/Ativas/Frameworks/SPIN Selling]] · Sistema → [[01 - Profissional/Projetos/Holos/Holos - Sistema Técnico]] · Prompt → [[03 - Memoria da IA/Referencias/Prompts Completos]]
+Método → [[03 — Estudos e Referências/Ativas/Frameworks/SPIN Selling]] · Sistema → [[Projetos/Holos/Holos - Sistema Técnico]] · Prompt → [[03 — Estudos e Referências/Memoria Antiga/Referencias/Prompts Completos]]
 
 ## Lara sem vs com SPIN
 
@@ -41,4 +41,4 @@ Lead qualificado (ou perdido — dado para o CRM)
 **Regra crítica:** uma pergunta por mensagem. Quando parece formulário, o lead sai.
 
 ---
-[[01 - Profissional/Projetos/Lara Comercial]] | [[02 - Pesquisas e Estudos/Ativas/Frameworks/SPIN Selling]] | [[_INDEX]]
+[[Projetos/Lara Comercial]] | [[03 — Estudos e Referências/Ativas/Frameworks/SPIN Selling]] | [[_INDEX]]

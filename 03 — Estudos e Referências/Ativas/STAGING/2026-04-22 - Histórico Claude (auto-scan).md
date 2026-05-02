@@ -9,7 +9,7 @@ tags: [staging, auto-scan, histórico, claude]
 
 > Dump bruto de sessões Claude. Referência histórica — não editar.
 
-[[02 - Pesquisas e Estudos/Ativas/Experts/Rafael Melgaço/Stack Vibe Coding]] | [[_INDEX]]
+[[03 — Estudos e Referências/Ativas/Experts/Rafael Melgaço/Stack Vibe Coding]] | [[_INDEX]]
 
 # Histórico Claude — Auto-Scan (2026-04-22)
 

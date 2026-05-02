@@ -41,7 +41,7 @@ Sub-agente 1       Sub-agente 2
 - **Squads:** 🟢 Avançado (Orquestração ativa).
 - **Agentes:** 🔴 Iniciante (Conceito estático).
 
-Como usar → [[03 - Memoria da IA/Referencias/Claude Code - Como Usar]] · Arsenal → [[03 - Memoria da IA/Referencias/Skills e MCPs]]
+Como usar → [[03 — Estudos e Referências/Memoria Antiga/Referencias/Claude Code - Como Usar]] · Arsenal → [[03 — Estudos e Referências/Memoria Antiga/Referencias/Skills e MCPs]]
 
 ---
-[[03 - Memoria da IA/Referencias/Claude Code - Como Usar]] | [[03 - Memoria da IA/Referencias/Claude Code - Arquitetura de Skills]] | [[_INDEX]]
+[[03 — Estudos e Referências/Memoria Antiga/Referencias/Claude Code - Como Usar]] | [[03 — Estudos e Referências/Memoria Antiga/Referencias/Claude Code - Arquitetura de Skills]] | [[_INDEX]]

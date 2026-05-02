@@ -78,6 +78,6 @@ TRÁFEGO ORGÂNICO → CRIATIVOS → ENTRY PROTOCOL → EXPOSIÇÃO → ABISMO �
 ## Próximo passo
 Megami → copy literal (headlines, CTAs, microcopy, sections, FAQ)
 
-Produto-mãe → [[01 - Profissional/Projetos/Mapa da Alma/Mapa da Alma]] · Copy → [[01 - Profissional/Projetos/Mapa da Alma/Funil Hacker/02 - Megami - Copy Funil Hacker]] · UI → [[01 - Profissional/Projetos/Mapa da Alma/Funil Hacker/03 - Titia Dark - Prompt v0 Funil Hacker]]
+Produto-mãe → [[Mapa da Alma/Mapa da Alma]] · Copy → [[Mapa da Alma/Funil Hacker/02 - Megami - Copy Funil Hacker]] · UI → [[Mapa da Alma/Funil Hacker/03 - Titia Dark - Prompt v0 Funil Hacker]]
 
 ---

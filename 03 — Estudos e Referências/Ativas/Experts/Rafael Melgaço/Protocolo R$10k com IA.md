@@ -32,4 +32,4 @@ area: pesquisa
 - **Auditoria:** 3Ps, Trial 15 dias, Matemática do Resultado e métricas ZenPro (5.768) preservados. Caveman style.
 
 ---
-[[02 - Pesquisas e Estudos/Ativas/Experts/Rafael Melgaço/Primeiro Projeto Vibe Coding]] | [[01 - Profissional/Projetos/ZenPro/ZenPro]] | [[01 - Profissional/Projetos/Lara Comercial]] | [[_INDEX]]
+[[03 — Estudos e Referências/Ativas/Experts/Rafael Melgaço/Primeiro Projeto Vibe Coding]] | [[Projetos/ZenPro/ZenPro]] | [[Projetos/Lara Comercial]] | [[_INDEX]]

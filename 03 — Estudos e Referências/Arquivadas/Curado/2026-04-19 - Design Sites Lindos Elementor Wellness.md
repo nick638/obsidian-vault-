@@ -25,4 +25,4 @@ area: pesquisa
 - **Auditoria:** Paleta de cores hexadecimais e referências visuais preservadas literalmente. Caveman style.
 
 ---
-[[01 - Profissional/Projetos/Holos/Holos - Site 2.0]] | [[01 - Profissional/Projetos/Holos/Identidade Visual]] | [[_INDEX]]
+[[Projetos/Holos/Holos - Site 2.0]] | [[Projetos/Holos/Identidade Visual]] | [[_INDEX]]

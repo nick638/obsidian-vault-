@@ -31,4 +31,4 @@ area: pesquisa
 - **Auditoria:** Arquitetura do stack, Agent Waves e Claude Octopus preservados. Caveman style.
 
 ---
-[[03 - Memoria da IA/Referencias/Vibe Coding]] | [[02 - Pesquisas e Estudos/Ativas/Experts/Rafael Melgaço/Protocolo R$10k com IA]] | [[_INDEX]]
+[[03 — Estudos e Referências/Memoria Antiga/Referencias/Vibe Coding]] | [[03 — Estudos e Referências/Ativas/Experts/Rafael Melgaço/Protocolo R$10k com IA]] | [[_INDEX]]

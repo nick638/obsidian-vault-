@@ -16,6 +16,6 @@ area: pesquisa
 - **Engine Conversão:** Landing Page (v0.dev) + Lara WhatsApp. Qualifica o lead e fecha o ciclo.
 - **Pipeline Holos:** `Ad "Bolha do Churrasco"` → `Meta Ads` → `LP Holos Natureza` → `Lara Qualifica` → `Matrícula`.
 
-Pipeline → [[01 - Profissional/Projetos/Holos/Holos]] · Engine Visual → [[03 - Memoria da IA/Referencias/Mia - Head de Design]]
+Pipeline → [[Projetos/Holos/Holos]] · Engine Visual → [[03 — Estudos e Referências/Memoria Antiga/Referencias/Mia - Head de Design]]
 
 ---

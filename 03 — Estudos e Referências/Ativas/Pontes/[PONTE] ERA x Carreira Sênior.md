@@ -16,6 +16,6 @@ area: pesquisa
 - **Solução:** O Método ERA empacota o Arquiteto de Ecossistemas. O cliente não compra automação, compra o fluxo resolvido de forma contínua.
 - **KPI:** Justifica contratos de retenção (MRR de R$ 5k mensais).
 
-ERA → [[02 - Pesquisas e Estudos/Ativas/Cursos/Método ERA - Afonso Lopes]] · Carreira → [[00 - Pessoal/Areas/Carreira]]
+ERA → [[03 — Estudos e Referências/Ativas/Cursos/Método ERA - Afonso Lopes]] · Carreira → [[00 — Quem Sou Nicolas/Areas/Carreira]]
 
 ---

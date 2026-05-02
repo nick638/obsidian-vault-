@@ -58,8 +58,8 @@ Crie uma Landing Page Gamificada ultra-premium chamada "Holos Natureza" usando N
 
 ---
 
-Produto completo → [[01 - Profissional/Projetos/Holos/Holos - Formação Imersiva Natureza]] · Esteira: [[01 - Profissional/Projetos/Holos/Funis/Esteira Thiago/01 - Tarkov - Briefing]] → [[01 - Profissional/Projetos/Holos/Funis/Esteira Thiago/02 - Megami - Copy Holos Natureza]] → [[01 - Profissional/Projetos/Holos/Funis/Esteira Thiago/03 - Titia - Prompt v0 Holos]] · Funil automatizado → [[01 - Profissional/Projetos/Holos/Holos - Funil Natureza]]
+Produto completo → [[Holos/Holos - Formação Imersiva Natureza]] · Esteira: [[Holos/Funis/Esteira Thiago/01 - Tarkov - Briefing]] → [[Holos/Funis/Esteira Thiago/02 - Megami - Copy Holos Natureza]] → [[Holos/Funis/Esteira Thiago/03 - Titia - Prompt v0 Holos]] · Funil automatizado → [[Holos/Holos - Funil Natureza]]
 
 ---
-[[01 - Profissional/Projetos/Holos/Holos]] | [[01 - Profissional/Projetos/Holos/Holos - Funil Natureza]] | [[_INDEX]]
+[[Holos/Holos]] | [[Holos/Holos - Funil Natureza]] | [[_INDEX]]
 

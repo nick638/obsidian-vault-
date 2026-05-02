@@ -58,7 +58,7 @@ Skills englobadas: Expression Syntax, Tools Expert, Workflow Patterns, Validatio
 - **Multi-level Validation:** Obrigatório.
 - **Explicit Parameters:** Zero confiança em defaults.
 
-Instruções IA → [[03 - Memoria da IA/Referencias/N8N - Instruções Antigravity]] · Em produção → [[01 - Profissional/Projetos/Lara Comercial]]
+Instruções IA → [[03 — Estudos e Referências/Memoria Antiga/Referencias/N8N - Instruções Antigravity]] · Em produção → [[Projetos/Lara Comercial]]
 
 ---
-[[03 - Memoria da IA/Referencias/N8N - Instruções Antigravity]] | [[03 - Memoria da IA/Referencias/N8N]] | [[_INDEX]]
+[[03 — Estudos e Referências/Memoria Antiga/Referencias/N8N - Instruções Antigravity]] | [[03 — Estudos e Referências/Memoria Antiga/Referencias/N8N]] | [[_INDEX]]

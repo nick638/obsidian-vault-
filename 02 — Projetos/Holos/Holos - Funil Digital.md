@@ -36,7 +36,7 @@ graph TD
 | Negociação 15% EAD | ⏳ Pendente | R$ 500-1.000/mês para Nicolas. |
 | Branding Holos | ⏳ Pendente | Unificação da mensagem. |
 | Fórmula de Lançamento | ⏳ Pendente | Aceleração de vendas. |
-Fase 3 (Escala) → [[01 - Profissional/Projetos/Holos/Holos - Estratégia 90 Dias]] · Unimasso Trial → [[01 - Profissional/Projetos/Unimasso/Unimasso]] · Comissão 15% → [[01 - Profissional/Areas/Financeiro/Financeiro]]
+Fase 3 (Escala) → [[Holos/Holos - Estratégia 90 Dias]] · Unimasso Trial → [[Unimasso/Unimasso]] · Comissão 15% → [[Arquivo não encontrado — ver conteúdo migrado]]
 
 ---
-[[01 - Profissional/Projetos/Holos/Holos - Estratégia 90 Dias]] | [[01 - Profissional/Projetos/Unimasso/Unimasso]] | [[01 - Profissional/Projetos/Lara Comercial]]
+[[Holos/Holos - Estratégia 90 Dias]] | [[Unimasso/Unimasso]] | [[Lara Comercial]]

@@ -16,6 +16,6 @@ area: pesquisa
 - **Proposta:** Contrato embute [R]ecorrência sem surpresas. LTV como foco.
 - **Call (Reunião):** Fechamento embute a [A]utoridade e Leis Ocultas de vendas.
 
-ERA → [[02 - Pesquisas e Estudos/Ativas/Cursos/Método ERA - Afonso Lopes]] · Metodologia → [[01 - Profissional/Projetos/Clientes Externos/Metodologia de Captação]]
+ERA → [[03 — Estudos e Referências/Ativas/Cursos/Método ERA - Afonso Lopes]] · Metodologia → [[Projetos/Clientes Externos/Metodologia de Captação]]
 
 ---

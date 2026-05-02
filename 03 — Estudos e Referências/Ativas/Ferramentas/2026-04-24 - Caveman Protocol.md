@@ -25,6 +25,6 @@ autor: JuliusBrussee
 - **A manter:** Contexto crítico, Warnings de Segurança, Código funcional.
 - **Formato:** `problema → solução` / `ferramenta → uso`.
 
-Injetado em → [[CLAUDE.md]] · Perfil cognitivo → [[00 - Pessoal/Areas/Neurologia]]
+Injetado em → [[CLAUDE.md]] · Perfil cognitivo → [[00 — Quem Sou Nicolas/Areas/Neurologia]]
 
 ---

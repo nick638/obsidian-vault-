@@ -40,7 +40,7 @@ Camada de atualização automática via WP REST API + ACF Pro.
 - **KPI de Performance:** Meta >80 no PageSpeed Mobile.
 - **Check-list Conteúdo:** Confirmar endereço (Artur Godói, 83), horário (9h-18h) e lista de preços (8/73 mapeados).
 
-Estrutura de oferta → [[01 - Profissional/Projetos/Holos/Holos - Modelo de Negócio]] · 73 landing pages → [[01 - Profissional/Projetos/Holos/Holos - Cursos]] · SEO orgânico → [[01 - Profissional/Projetos/Bumblebee 2.0]]
+Estrutura de oferta → [[Holos/Holos - Modelo de Negócio]] · 73 landing pages → [[Holos/Holos - Cursos]] · SEO orgânico → [[Bumblebee 2.0]]
 
 ---
-[[01 - Profissional/Projetos/Holos/Holos]] | [[01 - Profissional/Projetos/Bumblebee 2.0]] | [[01 - Profissional/Projetos/Holos/Holos - Modelo de Negócio]]
+[[Holos/Holos]] | [[Bumblebee 2.0]] | [[Holos/Holos - Modelo de Negócio]]

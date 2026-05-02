@@ -19,6 +19,6 @@ tags: [curso, era, b2b, mrr]
 - Holos já opera no vetor **[E]** e **[R]** (Lara = ecossistema; Valor = R$1.500/mês).
 - Foco atual: Mudar para **[A]** (Subir o Portfolio Pessoal e publicar case Holos).
 
-Autoridade → [[01 - Profissional/Projetos/Nicolas Portfolio/Nicolas Portfolio]] · Piloto → [[01 - Profissional/Projetos/Holos/Holos]]
+Autoridade → [[Projetos/Nicolas Portfolio/Nicolas Portfolio]] · Piloto → [[Projetos/Holos/Holos]]
 
 ---

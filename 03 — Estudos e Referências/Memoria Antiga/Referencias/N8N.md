@@ -49,7 +49,7 @@ curl -X POST https://nwh.m6k.com.br/webhook/XXXX \
   -d '{"acao": "criar_followup", "lead_whatsapp": "11999999999"}'
 ```
 
-Schemas → [[03 - Memoria da IA/Referencias/N8N - Instruções Antigravity]] · Fluxos Holos → [[01 - Profissional/Projetos/Holos/Holos - Sistema Técnico]]
+Schemas → [[03 — Estudos e Referências/Memoria Antiga/Referencias/N8N - Instruções Antigravity]] · Fluxos Holos → [[Projetos/Holos/Holos - Sistema Técnico]]
 
 ---
-[[03 - Memoria da IA/Referencias/Stack Tecnológica]] | [[01 - Profissional/Projetos/Holos/Holos - Sistema Técnico]] | [[03 - Memoria da IA/Referencias/N8N - Instruções Antigravity]]
+[[03 — Estudos e Referências/Memoria Antiga/Referencias/Stack Tecnológica]] | [[Projetos/Holos/Holos - Sistema Técnico]] | [[03 — Estudos e Referências/Memoria Antiga/Referencias/N8N - Instruções Antigravity]]

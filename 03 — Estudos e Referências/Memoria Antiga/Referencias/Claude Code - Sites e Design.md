@@ -42,7 +42,7 @@ wp-content/themes/nome-do-tema/
 2. Trocar assets unbranded (Unsplash) por assets text-to-image nichados.
 3. Vender por R$ 3k-10k.
 
-Sandbox → [[01 - Profissional/Projetos/Holos/Holos - Site 2.0 Tracker]] · WebApps → [[03 - Memoria da IA/Referencias/Vibe Coding]]
+Sandbox → [[Projetos/Holos/Holos - Site 2.0 Tracker]] · WebApps → [[03 — Estudos e Referências/Memoria Antiga/Referencias/Vibe Coding]]
 
 ---
-[[03 - Memoria da IA/Referencias/Vibe Coding]] | [[01 - Profissional/Projetos/Holos/Holos - Site 2.0 Tracker]] | [[_INDEX]]
+[[03 — Estudos e Referências/Memoria Antiga/Referencias/Vibe Coding]] | [[Projetos/Holos/Holos - Site 2.0 Tracker]] | [[_INDEX]]

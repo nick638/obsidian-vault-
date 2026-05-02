@@ -27,6 +27,6 @@ tags: [curso, lancamento, vendas, ead]
 - **Ticket EAD:** R$ 197,00.
 - **Mecânica:** 3 disparos (CPLs) pelo WhatsApp → Abertura de carrinho via Lovable → Suporte Lara_CRM.
 
-Alvo → [[01 - Profissional/Projetos/Holos/Holos]] · Perpétuo → [[02 - Pesquisas e Estudos/Ativas/Cursos/Venda Todo Santo Dia - Leandro Ladeira]]
+Alvo → [[Projetos/Holos/Holos]] · Perpétuo → [[03 — Estudos e Referências/Ativas/Cursos/Venda Todo Santo Dia - Leandro Ladeira]]
 
 ---

@@ -43,7 +43,7 @@ graph TD
 - **Custo:** ~R$ 1,50 por vídeo.
 - **Tempo:** 5-10 min por vídeo.
 
-Ferramenta de execução → [[01 - Profissional/Projetos/Content Agent Holos/Content Agent Holos]] · GTM → [[01 - Profissional/Projetos/Holos/Holos - Estratégia 90 Dias]] · Motor Remotion → [[01 - Profissional/Projetos/Editor de Video Local/Editor de Vídeo Local]]
+Ferramenta de execução → [[Content Agent Holos/Content Agent Holos]] · GTM → [[Holos/Holos - Estratégia 90 Dias]] · Motor Remotion → [[Editor de Video Local/Editor de Vídeo Local]]
 
 ---
-[[01 - Profissional/Projetos/Holos/Holos]] | [[01 - Profissional/Projetos/Content Agent Holos/Content Agent Holos]] | [[01 - Profissional/Projetos/Holos/Holos - Estratégia 90 Dias]]
+[[Holos/Holos]] | [[Content Agent Holos/Content Agent Holos]] | [[Holos/Holos - Estratégia 90 Dias]]

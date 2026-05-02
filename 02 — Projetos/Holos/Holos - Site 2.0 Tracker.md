@@ -122,7 +122,7 @@ footer: #160A30           /* footer */
 
 ---
 
-Cursos → [[01 - Profissional/Projetos/Holos/Holos - Cursos]] · Sistema Técnico → [[01 - Profissional/Projetos/Holos/Holos - Sistema Técnico]] · Modelo Negócio → [[01 - Profissional/Projetos/Holos/Holos - Modelo de Negócio]] · Funil → [[01 - Profissional/Projetos/Holos/Holos - Funil Digital]]
+Cursos → [[Holos/Holos - Cursos]] · Sistema Técnico → [[Holos/Holos - Sistema Técnico]] · Modelo Negócio → [[Holos/Holos - Modelo de Negócio]] · Funil → [[Holos/Holos - Funil Digital]]
 
 ---
-[[01 - Profissional/Projetos/Holos/Holos]] | [[01 - Profissional/Projetos/Holos/Holos - Site 2.0]] | [[_INDEX]]
+[[Holos/Holos]] | [[Holos/Holos - Site 2.0]] | [[_INDEX]]

@@ -27,4 +27,4 @@ area: pesquisa
 - **Auditoria:** Escada de valor e métrica de 60% de conversão na aula experimental preservadas. Caveman style.
 
 ---
-[[01 - Profissional/Projetos/Holos/Holos - Modelo de Negócio]] | [[01 - Profissional/Projetos/Unimasso/Unimasso]] | [[01 - Profissional/Projetos/Lara Comercial]] | [[_INDEX]]
+[[Projetos/Holos/Holos - Modelo de Negócio]] | [[Projetos/Unimasso/Unimasso]] | [[Projetos/Lara Comercial]] | [[_INDEX]]

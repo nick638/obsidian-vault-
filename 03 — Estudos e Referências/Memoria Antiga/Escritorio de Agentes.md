@@ -68,5 +68,5 @@ claude --add-dir "C:/Jarvis/03 - Memoria da IA/Escritorio/[agente]"
 - **produto:** "Você é Produto. Leia vault. Qual o projeto mais vermelho? Execute próxima ação atômica."
 
 ## Referência de pesquisa
-Modelo baseado em: [[02 - Pesquisas e Estudos/Ativas/2026-05-01 - Escritório Virtual Multiagentes Claude Code]]
+Modelo baseado em: [[03 — Estudos e Referências/Ativas/2026-05-01 - Escritório Virtual Multiagentes Claude Code]]
 Fonte: MGTInc / Marcelo — Pixel Agents (live abr/26)

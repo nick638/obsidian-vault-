@@ -22,7 +22,7 @@ tags: [squads, aios, aiox, framework]
 Estes diretórios contêm source code das skills injetadas no `/help` do Claude.
 **Proibição:** Não duplicar o código-fonte em `.md`. Se necessário extrair contexto, armazenar apenas o sumário no Vault.
 
-Stack → [[03 - Memoria da IA/Referencias/Stack Tecnológica]] · Scripts → [[03 - Memoria da IA/Referencias/Scripts Locais - dev]]
+Stack → [[03 — Estudos e Referências/Memoria Antiga/Referencias/Stack Tecnológica]] · Scripts → [[03 — Estudos e Referências/Memoria Antiga/Referencias/Scripts Locais - dev]]
 
 ---
-[[03 - Memoria da IA/Referencias/Stack Tecnológica]] | [[_INDEX]]
+[[03 — Estudos e Referências/Memoria Antiga/Referencias/Stack Tecnológica]] | [[_INDEX]]

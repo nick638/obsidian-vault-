@@ -20,6 +20,6 @@ tags: [curso, mentalidade, erico-rocha]
 - Física Quântica basal (Ambiente modifica observador). 
 - Hábitos criam trilhas sistêmicas.
 
-Mentalidade → [[00 - Pessoal/Areas/Mentalidade]] · Tática EAD → [[02 - Pesquisas e Estudos/Ativas/Cursos/Fórmula de Lançamento - Erico Rocha]] · Identidade → [[02 - Pesquisas e Estudos/Ativas/Cursos/Fe Alves - As Leis Ocultas da Realidade]]
+Mentalidade → [[00 — Quem Sou Nicolas/Areas/Mentalidade]] · Tática EAD → [[03 — Estudos e Referências/Ativas/Cursos/Fórmula de Lançamento - Erico Rocha]] · Identidade → [[03 — Estudos e Referências/Ativas/Cursos/Fe Alves - As Leis Ocultas da Realidade]]
 
 ---

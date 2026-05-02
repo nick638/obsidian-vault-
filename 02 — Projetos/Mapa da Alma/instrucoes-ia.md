@@ -71,5 +71,5 @@ Meta: 110 clientes/mês com 8% conversão, CPA máx R$30.
 ## Arquivos-chave
 - [[Mapa da Alma]] — estado completo do projeto
 - [[Unimasso/Unimasso]] — destino final do produto
-- [[Familia/Flywheel Holos x Unimasso]] — contexto estratégico
-- [[Areas/Financeiro]] — metas de receita
+- [[02 — Projetos/Familia/Flywheel Holos x Unimasso]] — contexto estratégico
+- [[00 — Quem Sou Nicolas/Áreas da Vida/Financeiro]] — metas de receita

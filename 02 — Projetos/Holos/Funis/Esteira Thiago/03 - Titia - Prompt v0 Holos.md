@@ -58,6 +58,6 @@ Assim que você enviar, eu volto com:
 Manda a copy e eu transformo isso num funil absurdo. 🚀
 ```
 
-← [[01 - Profissional/Projetos/Holos/Funis/Esteira Thiago/02 - Megami - Copy Holos Natureza]] · Funil pai → [[01 - Profissional/Projetos/Holos/Holos - Funil Natureza]]
+← [[Holos/Funis/Esteira Thiago/02 - Megami - Copy Holos Natureza]] · Funil pai → [[Holos/Holos - Funil Natureza]]
 
 ---

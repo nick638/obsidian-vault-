@@ -29,4 +29,4 @@ area: pesquisa
 - **Auditoria:** Tom de voz, gatilhos de correção e comandos de ativação preservados. Caveman style.
 
 ---
-[[02 - Pesquisas e Estudos/Ativas/Experts/Rafael Melgaço/Protocolo R$10k com IA]] | [[02 - Pesquisas e Estudos/Ativas/Experts/Rafael Melgaço/_Síntese - Aplicação Jarvis Nicolas]] | [[_INDEX]]
+[[03 — Estudos e Referências/Ativas/Experts/Rafael Melgaço/Protocolo R$10k com IA]] | [[03 — Estudos e Referências/Ativas/Experts/Rafael Melgaço/_Síntese - Aplicação Jarvis Nicolas]] | [[_INDEX]]

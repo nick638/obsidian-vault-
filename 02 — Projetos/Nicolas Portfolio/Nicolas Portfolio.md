@@ -36,7 +36,7 @@ Reunião Diagnóstica (SPIN Selling)
 - [ ] Case Holos Publicado (Lara Comercial 2 no ar).
 - [ ] Registro de Domínio (`nicolas.dev` ou `nicolasmorato.com`).
 
-Clientes externos →  · Motor de receita → [[01 - Profissional/Areas/Financeiro/Financeiro]]
+Clientes externos →  · Motor de receita → [[Arquivo não encontrado — ver conteúdo migrado]]
 
 ---
-[[01 - Profissional/Projetos/Clientes Externos/Prospecção Ativa]] | [[01 - Profissional/Projetos/Lara Comercial]] | [[01 - Profissional/Areas/Financeiro/Financeiro]]
+[[Clientes Externos/Prospecção Ativa]] | [[Lara Comercial]] | [[Arquivo não encontrado — ver conteúdo migrado]]

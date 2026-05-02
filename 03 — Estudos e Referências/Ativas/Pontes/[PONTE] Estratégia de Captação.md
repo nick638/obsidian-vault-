@@ -11,7 +11,7 @@ area: profissional
 
 > **Presença cria visibilidade. Prospecção cria oportunidades. Sem os dois juntos, a renda depende de sorte.**
 
-Visibilidade → [[01 - Profissional/Areas/Conteudo]] · Ação → [[01 - Profissional/Projetos/Clientes Externos/Prospecção Ativa]] · Destino → [[00 - Pessoal/Areas/Carreira]]
+Visibilidade → [[Arquivo não encontrado — ver conteúdo migrado]] · Ação → [[Projetos/Clientes Externos/Prospecção Ativa]] · Destino → [[00 — Quem Sou Nicolas/Areas/Carreira]]
 
 ## Por que os dois precisam coexistir
 
@@ -39,4 +39,4 @@ Esperar presença perfeita para prospectar. Esperar cases para construir presen�
 Saída: fazer os dois em paralelo. O primeiro cliente não precisa de presença perfeita. A primeira presença não precisa de case perfeito.
 
 ---
-[[01 - Profissional/Projetos/Clientes Externos/Prospecção Ativa]] | [[01 - Profissional/Areas/Conteudo]] | [[_INDEX]]
+[[Projetos/Clientes Externos/Prospecção Ativa]] | [[Arquivo não encontrado — ver conteúdo migrado]] | [[_INDEX]]

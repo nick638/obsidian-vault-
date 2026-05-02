@@ -48,7 +48,7 @@ Condition: Se (follow_up_3 = false) AND (> 72h) → Executa e = true
 ```
 > **KPI:** Recuperação de 20-30% de leads perdidos.
 
-Campos Lara → [[01 - Profissional/Projetos/Lara Comercial]] · CronJobs → [[03 - Memoria da IA/Referencias/N8N - Instruções Antigravity]]
+Campos Lara → [[Projetos/Lara Comercial]] · CronJobs → [[03 — Estudos e Referências/Memoria Antiga/Referencias/N8N - Instruções Antigravity]]
 
 ---
-[[01 - Profissional/Projetos/Holos/Holos - Sistema Técnico]] | [[03 - Memoria da IA/Referencias/N8N]] | [[01 - Profissional/Projetos/Lara Comercial]]
+[[Projetos/Holos/Holos - Sistema Técnico]] | [[03 — Estudos e Referências/Memoria Antiga/Referencias/N8N]] | [[Projetos/Lara Comercial]]

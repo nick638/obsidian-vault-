@@ -55,7 +55,7 @@ ls .claude/skills/
 cat ~/.claude/settings.json | grep -A 5 "hooks"
 ```
 
-Arsenal ativo → [[03 - Memoria da IA/Referencias/Skills e MCPs]] · Contexto lara-context → [[01 - Profissional/Projetos/Holos/Holos - Sistema Técnico]]
+Arsenal ativo → [[03 — Estudos e Referências/Memoria Antiga/Referencias/Skills e MCPs]] · Contexto lara-context → [[Projetos/Holos/Holos - Sistema Técnico]]
 
 ---
-[[03 - Memoria da IA/Referencias/Claude Code - Como Usar]] | [[03 - Memoria da IA/Referencias/Skills e MCPs]] | [[_INDEX]]
+[[03 — Estudos e Referências/Memoria Antiga/Referencias/Claude Code - Como Usar]] | [[03 — Estudos e Referências/Memoria Antiga/Referencias/Skills e MCPs]] | [[_INDEX]]

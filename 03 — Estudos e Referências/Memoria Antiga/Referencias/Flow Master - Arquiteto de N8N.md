@@ -22,4 +22,4 @@ tags: [agente, tech, automacao, n8n]
 3. **Prevenção de Gargalos:** Bloqueio severo contra loops infinitos e nós de "Wait" desnecessários.
 
 ---
-[[03 - Memoria da IA/Referencias/N8N]] | [[_INDEX]]
+[[03 — Estudos e Referências/Memoria Antiga/Referencias/N8N]] | [[_INDEX]]

@@ -22,4 +22,4 @@ tags: [agente, negocio, tracker, scout]
 3. **Data Integrity:** Veto a dados quebrados; cruza informações de fluxos do Nick (Automação).
 
 ---
-[[01 - Profissional/Projetos/Unimasso/Unimasso]] | [[_INDEX]]
+[[Projetos/Unimasso/Unimasso]] | [[_INDEX]]

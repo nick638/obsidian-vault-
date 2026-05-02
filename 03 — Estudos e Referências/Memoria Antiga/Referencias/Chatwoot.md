@@ -79,7 +79,7 @@ Resposta → Evolution API → WhatsApp do lead
 
 ---
 
-Evolution API → [[03 - Memoria da IA/Referencias/Evolution API]] · N8N → [[03 - Memoria da IA/Referencias/N8N]] · CRM IDs → [[01 - Profissional/Projetos/Holos/Holos - Sistema Técnico]] · Unimasso → [[01 - Profissional/Projetos/Unimasso/Unimasso]]
+Evolution API → [[03 — Estudos e Referências/Memoria Antiga/Referencias/Evolution API]] · N8N → [[03 — Estudos e Referências/Memoria Antiga/Referencias/N8N]] · CRM IDs → [[Projetos/Holos/Holos - Sistema Técnico]] · Unimasso → [[Projetos/Unimasso/Unimasso]]
 
 ---
-[[03 - Memoria da IA/Referencias/Evolution API]] | [[03 - Memoria da IA/Referencias/N8N]] | [[01 - Profissional/Projetos/Holos/Holos - Sistema Técnico]]
+[[03 — Estudos e Referências/Memoria Antiga/Referencias/Evolution API]] | [[03 — Estudos e Referências/Memoria Antiga/Referencias/N8N]] | [[Projetos/Holos/Holos - Sistema Técnico]]

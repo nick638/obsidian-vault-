@@ -79,7 +79,7 @@ Retorne APENAS o JSON. Sem explicações.
 | **Advocacia** | Aurora Advocacia | `Workflow--advogado` |
 | **Imobiliária** | Morada One | `ImobiFlow` |
 
-Prompts → [[03 - Memoria da IA/Referencias/Prompts Completos]] · Deploy → [[01 - Profissional/Projetos/Clientes Externos/Metodologia de Captação]]
+Prompts → [[03 — Estudos e Referências/Memoria Antiga/Referencias/Prompts Completos]] · Deploy → [[Projetos/Clientes Externos/Metodologia de Captação]]
 
 ---
-[[03 - Memoria da IA/Referencias/Prompts Completos]] | [[01 - Profissional/Projetos/Clientes Externos/Metodologia de Captação]] | [[_INDEX]]
+[[03 — Estudos e Referências/Memoria Antiga/Referencias/Prompts Completos]] | [[Projetos/Clientes Externos/Metodologia de Captação]] | [[_INDEX]]

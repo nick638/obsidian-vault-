@@ -19,10 +19,10 @@ area: pesquisa
 - Vídeo como curta-metragem/documentário.
 - Uso de dores pesadas (Medo, Vergonha, Inadequação).
 
-Workflow → [[02 - Pesquisas e Estudos/Ativas/Experts/Thiago.c0de/Pipeline de Geração de Vídeo]] · Aplicação → [[01 - Profissional/Projetos/Holos/Holos - Funil Natureza]]
+Workflow → [[03 — Estudos e Referências/Ativas/Experts/Thiago.c0de/Pipeline de Geração de Vídeo]] · Aplicação → [[Projetos/Holos/Holos - Funil Natureza]]
 
 ---
 - **Auditoria:** Conceito "Facada no coração" e objetivo de redução de CPA preservados. Caveman style.
 
 ---
-[[02 - Pesquisas e Estudos/Ativas/Experts/Thiago.c0de/Pipeline de Geração de Vídeo]] | [[01 - Profissional/Projetos/Holos/Holos - Funil Natureza]] | [[_INDEX]]
+[[03 — Estudos e Referências/Ativas/Experts/Thiago.c0de/Pipeline de Geração de Vídeo]] | [[Projetos/Holos/Holos - Funil Natureza]] | [[_INDEX]]

@@ -85,4 +85,4 @@ Produtos anteriores: Nômade Milionário Legacy, Outlier Academy, Mindset Outlie
 
 ---
 
-VSL aplicado em → [[01 - Profissional/Projetos/Holos/Holos - Formação Imersiva Natureza]] · Criativos → [[02 - Pesquisas e Estudos/Ativas/Experts/Thiago.c0de/Criativos Cinematográficos]] · Funil → [[01 - Profissional/Projetos/Holos/Holos - Funil Digital]]
+VSL aplicado em → [[Projetos/Holos/Holos - Formação Imersiva Natureza]] · Criativos → [[03 — Estudos e Referências/Ativas/Experts/Thiago.c0de/Criativos Cinematográficos]] · Funil → [[Projetos/Holos/Holos - Funil Digital]]

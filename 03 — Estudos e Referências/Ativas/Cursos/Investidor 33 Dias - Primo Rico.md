@@ -21,6 +21,6 @@ tags: [curso, financeiro, investimentos]
 - **Portfólio 1:** MXRF11 Base → 100 cotas → Diversificação Híbrida (Ações/Cripto/FIIs).
 - **Tributação (Alertas):** FIIs (Isentos PF). Ações (15% acima de 20k/mês). Cripto (15% acima de 35k/mês).
 
-Portfólio pessoal → [[00 - Pessoal/Areas/Financeiro]] · C de PIB → [[01 - Profissional/Projetos/Holos/Holos]] · I de PIB → [[01 - Profissional/Projetos/Unimasso/Unimasso]]
+Portfólio pessoal → [[00 — Quem Sou Nicolas/Areas/Financeiro]] · C de PIB → [[Projetos/Holos/Holos]] · I de PIB → [[Projetos/Unimasso/Unimasso]]
 
 ---

@@ -16,6 +16,6 @@ area: pesquisa
 - Ao invés de prospectar 10 projetos isolados de R$500, o foco migra para manter X clientes recorrentes de R$2k/mês.
 - O Planejamento Master deve sempre alocar blocos de tempo para Retenção e Otimização do Ecossistema, e não apenas Outbound contínuo.
 
-ERA → [[02 - Pesquisas e Estudos/Ativas/Cursos/Método ERA - Afonso Lopes]] · Planejamento → [[01 - Profissional/Areas/Estrategia/Planejamento Master]]
+ERA → [[03 — Estudos e Referências/Ativas/Cursos/Método ERA - Afonso Lopes]] · Planejamento → [[Arquivo não encontrado — ver conteúdo migrado]]
 
 ---

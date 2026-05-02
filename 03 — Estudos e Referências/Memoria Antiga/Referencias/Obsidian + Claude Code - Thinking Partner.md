@@ -56,7 +56,7 @@ description: <o que faz em 1 linha>
 - **PostAction:** Push para `jarvis-feedback-log`.
 - **Stop:** Auto-commit + QA check.
 
-Perfil → [[00 - Pessoal/Perfil]] · Arquitetura → [[03 - Memoria da IA/Referencias/Claude Code - Arquitetura de Conhecimento]]
+Perfil → [[00 — Quem Sou Nicolas/Perfil]] · Arquitetura → [[03 — Estudos e Referências/Memoria Antiga/Referencias/Claude Code - Arquitetura de Conhecimento]]
 
 ---
-[[03 - Memoria da IA/Referencias/Claude Code - Como Usar]] | [[03 - Memoria da IA/Referencias/Claude Code - Arquitetura de Skills]] | [[_INDEX]]
+[[03 — Estudos e Referências/Memoria Antiga/Referencias/Claude Code - Como Usar]] | [[03 — Estudos e Referências/Memoria Antiga/Referencias/Claude Code - Arquitetura de Skills]] | [[_INDEX]]

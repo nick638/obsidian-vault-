@@ -81,4 +81,4 @@ Empresa cadastrada
 
 ---
 
-Caso 1 → [[01 - Profissional/Projetos/Holos/Holos]] · Caso 2 → [[01 - Profissional/Projetos/Unimasso/Unimasso]] · Escala para clientes → [[01 - Profissional/Projetos/Clientes Externos/Metodologia de Captação]]
+Caso 1 → [[Holos/Holos]] · Caso 2 → [[Unimasso/Unimasso]] · Escala para clientes → [[Clientes Externos/Metodologia de Captação]]

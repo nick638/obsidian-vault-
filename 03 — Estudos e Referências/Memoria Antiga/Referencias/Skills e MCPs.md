@@ -56,7 +56,7 @@ tags: [tecnico, mcp, claude, ia]
 claude mcp list
 ```
 
-Como usar → [[03 - Memoria da IA/Referencias/Claude Code - Como Usar]] · Arquitetura → [[03 - Memoria da IA/Referencias/Claude Code - Arquitetura de Skills]]
+Como usar → [[03 — Estudos e Referências/Memoria Antiga/Referencias/Claude Code - Como Usar]] · Arquitetura → [[03 — Estudos e Referências/Memoria Antiga/Referencias/Claude Code - Arquitetura de Skills]]
 
 ---
-[[03 - Memoria da IA/Referencias/Claude Code - Como Usar]] | [[03 - Memoria da IA/Referencias/Claude Code - Arquitetura de Skills]] | [[00 - Pessoal/Mapa do PC]]
+[[03 — Estudos e Referências/Memoria Antiga/Referencias/Claude Code - Como Usar]] | [[03 — Estudos e Referências/Memoria Antiga/Referencias/Claude Code - Arquitetura de Skills]] | [[00 — Quem Sou Nicolas/Mapa do PC]]

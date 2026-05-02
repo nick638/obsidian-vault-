@@ -20,10 +20,10 @@ tags: [aiox, moc]
 - [[README.md]] — Documentação de extensões.
 - [[package.json]] — Versões e bibliotecas utilizadas.
 
-Contexto → [[03 - Memoria da IA/Referencias/Agentes e Squads]]
+Contexto → [[03 — Estudos e Referências/Memoria Antiga/Referencias/Agentes e Squads]]
 
 ---
 *Assinado: Jarvis (Orquestrador de Conhecimento)*
 
 ---
-[[03 - Memoria da IA/Projetos de Codigo/MOC - AIOS Core]] | [[_INDEX]]
+[[03 — Estudos e Referências/Memoria Antiga/Projetos de Codigo/MOC - AIOS Core]] | [[_INDEX]]

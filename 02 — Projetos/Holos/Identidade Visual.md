@@ -31,6 +31,6 @@ tags: [holos, identidade-visual, branding, design]
 - **Tom:** Humano, inspirador, espiritual sem ser esotérico.
 - **Palavras Chave:** Chamado, cura, transformação, presença, técnica.
 
-Aplicação prática → [[01 - Profissional/Projetos/Holos/Holos - Site 2.0]] · Guia para Reels/Posts → [[01 - Profissional/Projetos/Holos/Holos - Estratégia de Conteúdo]] · Automação visual → [[01 - Profissional/Projetos/Content Agent Holos/Content Agent Holos]]
+Aplicação prática → [[Holos/Holos - Site 2.0]] · Guia para Reels/Posts → [[Holos/Holos - Estratégia de Conteúdo]] · Automação visual → [[Content Agent Holos/Content Agent Holos]]
 
 ---

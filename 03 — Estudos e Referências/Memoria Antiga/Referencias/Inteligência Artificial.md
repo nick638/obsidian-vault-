@@ -38,7 +38,7 @@ tags: [ia, estrategia, mercado]
 - Dashboard de avatar / dados (Valuation Mercado: R$ 40k).
 - Clone especialista (Valuation Mercado: R$ 8k).
 
-Implementação → [[03 - Memoria da IA/Referencias/Ferramentas de IA]] · Precificação → [[02 - Pesquisas e Estudos/Ativas/Cursos/Imersão IA Leo Soares]]
+Implementação → [[03 — Estudos e Referências/Memoria Antiga/Referencias/Ferramentas de IA]] · Precificação → [[03 — Estudos e Referências/Ativas/Cursos/Imersão IA Leo Soares]]
 
 ---
 [[_INDEX]]

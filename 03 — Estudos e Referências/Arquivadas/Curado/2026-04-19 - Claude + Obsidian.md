@@ -25,4 +25,4 @@ area: pesquisa
 - **Auditoria:** Caminhos de integração e porta 27123 preservados. Caveman style.
 
 ---
-[[03 - Memoria da IA/Referencias/Claude Code - Como Usar]] | [[03 - Memoria da IA/Referencias/Skills e MCPs]] | [[_INDEX]]
+[[03 — Estudos e Referências/Memoria Antiga/Referencias/Claude Code - Como Usar]] | [[03 — Estudos e Referências/Memoria Antiga/Referencias/Skills e MCPs]] | [[_INDEX]]

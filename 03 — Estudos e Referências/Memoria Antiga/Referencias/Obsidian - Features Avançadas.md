@@ -36,7 +36,7 @@ FROM "Projetos"
 WHERE status = "Ativo"
 ```
 
-Canvas funil → [[01 - Profissional/Projetos/Holos/Holos - Funil Digital]] · Templater check-in → [[01 - Profissional/Areas/Estrategia/Planejamento Diário]]
+Canvas funil → [[Projetos/Holos/Holos - Funil Digital]] · Templater check-in → [[Arquivo não encontrado — ver conteúdo migrado]]
 
 ---
-[[03 - Memoria da IA/Referencias/Obsidian + Claude Code - Thinking Partner]] | [[_INDEX]]
+[[03 — Estudos e Referências/Memoria Antiga/Referencias/Obsidian + Claude Code - Thinking Partner]] | [[_INDEX]]

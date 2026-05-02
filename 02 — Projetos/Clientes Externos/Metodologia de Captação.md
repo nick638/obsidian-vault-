@@ -41,7 +41,7 @@ Template base → Adaptar prompts → Conectar N8N → CRM Supabase → Follow-u
 ## 5. Matemática da Prospecção (Funil)
 - 20 Empresas Abordadas → 10 Qualificadas → 5 Reuniões → 1 Venda (R$ 1.500/mês).
 - Foco atual: Parar de produzir para prateleira, iniciar pitch com cases reais (ZenPro tem 5.768 base).
-Pipeline ativo → [[01 - Profissional/Projetos/Clientes Externos/Pipeline]] · Prospecção → [[01 - Profissional/Projetos/Clientes Externos/Prospecção Ativa]]
+Pipeline ativo → [[Clientes Externos/Pipeline]] · Prospecção → [[Clientes Externos/Prospecção Ativa]]
 
 ---
-[[01 - Profissional/Projetos/Clientes Externos/Prospecção Ativa]] | [[03 - Memoria da IA/Referencias/Prompts Completos]] | [[01 - Profissional/Projetos/Clientes Externos/Pipeline]]
+[[Clientes Externos/Prospecção Ativa]] | [[03 — Estudos e Referências/Memoria Antiga/Referencias/Prompts Completos]] | [[Clientes Externos/Pipeline]]

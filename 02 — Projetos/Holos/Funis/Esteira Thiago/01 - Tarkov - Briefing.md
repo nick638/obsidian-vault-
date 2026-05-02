@@ -50,6 +50,6 @@ Tom de voz: mais espiritual, científico, acolhedor, direto?
 Responde isso que eu construo toda a arquitetura estratégica completa do GameFunnel pra Holos Natureza. 🚀
 ```
 
-Próximo passo → [[01 - Profissional/Projetos/Holos/Funis/Esteira Thiago/02 - Megami - Copy Holos Natureza]] → [[01 - Profissional/Projetos/Holos/Funis/Esteira Thiago/03 - Titia - Prompt v0 Holos]] · Produto alvo → [[01 - Profissional/Projetos/Holos/Holos - Formação Imersiva Natureza]]
+Próximo passo → [[Holos/Funis/Esteira Thiago/02 - Megami - Copy Holos Natureza]] → [[Holos/Funis/Esteira Thiago/03 - Titia - Prompt v0 Holos]] · Produto alvo → [[Holos/Holos - Formação Imersiva Natureza]]
 
 ---

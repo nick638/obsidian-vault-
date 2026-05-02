@@ -49,13 +49,13 @@ tags: [projeto, familia, pessoas, dinamica]
 
 ## 2. Mapa de Dependências Operacionais
 1. **Nicolas** sobe a Lara → **Mãe** confirma gatilho → **Tia** aprova produção → **Giovanna** valida fluxo → **Pai** alinha UTMs.
-Cliente principal → [[01 - Profissional/Projetos/Holos/Holos]] · Par operacional do pai → [[01 - Profissional/Projetos/Familia/Revolucio — Sistema do Pai]]
+Cliente principal → [[Holos/Holos]] · Par operacional do pai → [[02 — Projetos/Familia/Revolucio — Sistema do Pai]]
 
 ## 3. Padrão Identificado: "O Abismo da Entrega"
 - Apresentar sistemas prontos gera resistência.
 - **Hipótese:** O valor deve ser comunicado *antes* da construção, via simulação.
 - **Ação:** Próximas entregas devem ter fase de simulação assistida (onboarding suave).
-Lógica de crescimento → [[01 - Profissional/Projetos/Familia/Flywheel Holos x Unimasso]] · Formalização → [[01 - Profissional/Projetos/Familia/Proposta Formalização Nicolas v2]]
+Lógica de crescimento → [[02 — Projetos/Familia/Flywheel Holos x Unimasso]] · Formalização → [[02 — Projetos/Familia/Proposta Formalização Nicolas v2]]
 
 ---
-[[01 - Profissional/Projetos/Holos/Holos]] | [[01 - Profissional/Projetos/Familia/Flywheel Holos x Unimasso]] | [[01 - Profissional/Projetos/Lara Comercial]]
+[[Holos/Holos]] | [[02 — Projetos/Familia/Flywheel Holos x Unimasso]] | [[Lara Comercial]]

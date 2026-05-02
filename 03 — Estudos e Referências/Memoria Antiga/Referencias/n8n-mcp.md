@@ -25,7 +25,7 @@ tags: [mcp, n8n, claude-code]
 | `MEMORY_N8N_UPDATE.md` | Logs de estado. |
 | `Dockerfile.railway` | Build de container. |
 
-Deploy N8N → [[03 - Memoria da IA/Referencias/Stack Tecnológica]] · Scripts → [[03 - Memoria da IA/Referencias/Scripts Locais - dev]]
+Deploy N8N → [[03 — Estudos e Referências/Memoria Antiga/Referencias/Stack Tecnológica]] · Scripts → [[03 — Estudos e Referências/Memoria Antiga/Referencias/Scripts Locais - dev]]
 
 ---
-[[03 - Memoria da IA/Referencias/N8N]] | [[03 - Memoria da IA/Referencias/Stack Tecnológica]]
+[[03 — Estudos e Referências/Memoria Antiga/Referencias/N8N]] | [[03 — Estudos e Referências/Memoria Antiga/Referencias/Stack Tecnológica]]

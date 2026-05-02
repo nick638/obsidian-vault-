@@ -44,6 +44,6 @@ python sincronizar-audio.py
 npx remotion render src/index.ts HolosFormacao output/holos-formacao.mp4
 ```
 
-Estratégia que alimenta → [[01 - Profissional/Projetos/Holos/Holos - Estratégia de Conteúdo]] · Arquitetura base → [[01 - Profissional/Projetos/Editor de Video Local/Editor de Vídeo Local]]
+Estratégia que alimenta → [[Holos/Holos - Estratégia de Conteúdo]] · Arquitetura base → [[Editor de Video Local/Editor de Vídeo Local]]
 
 ---

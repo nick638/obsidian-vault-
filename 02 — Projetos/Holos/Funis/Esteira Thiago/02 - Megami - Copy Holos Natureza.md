@@ -486,6 +486,6 @@ FORMATOS: [ÁUDIO] [TEXTO] [VÍDEO]
 Próximo: TITIA DARK (prompts técnicos)
 ```
 
-← [[01 - Profissional/Projetos/Holos/Funis/Esteira Thiago/01 - Tarkov - Briefing]] → [[01 - Profissional/Projetos/Holos/Funis/Esteira Thiago/03 - Titia - Prompt v0 Holos]] · Produto alvo → [[01 - Profissional/Projetos/Holos/Holos - Formação Imersiva Natureza]]
+← [[Holos/Funis/Esteira Thiago/01 - Tarkov - Briefing]] → [[Holos/Funis/Esteira Thiago/03 - Titia - Prompt v0 Holos]] · Produto alvo → [[Holos/Holos - Formação Imersiva Natureza]]
 
 ---

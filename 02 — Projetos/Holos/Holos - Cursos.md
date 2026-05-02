@@ -39,7 +39,7 @@ tags: [holos, cursos, produtos, precificacao]
 - [ ] Confirmar quais estão ativos no **Holos Connect**.
 - [ ] Definir pré-requisitos técnicos entre módulos.
 
-Landing pages → [[01 - Profissional/Projetos/Holos/Holos - Site 2.0]] · Tabela `cursos` no Supabase → [[01 - Profissional/Projetos/Holos/Holos - Sistema Técnico]] · Escada de valor → [[01 - Profissional/Projetos/Holos/Holos - Modelo de Negócio]]
+Landing pages → [[Holos/Holos - Site 2.0]] · Tabela `cursos` no Supabase → [[Holos/Holos - Sistema Técnico]] · Escada de valor → [[Holos/Holos - Modelo de Negócio]]
 
 ---
-[[01 - Profissional/Projetos/Holos/Holos - Modelo de Negócio]] | [[01 - Profissional/Projetos/Holos/Holos - Sistema Técnico]] | [[01 - Profissional/Projetos/Holos/Holos - Site 2.0]]
+[[Holos/Holos - Modelo de Negócio]] | [[Holos/Holos - Sistema Técnico]] | [[Holos/Holos - Site 2.0]]

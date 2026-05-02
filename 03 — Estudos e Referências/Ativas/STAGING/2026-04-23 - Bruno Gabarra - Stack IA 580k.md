@@ -45,4 +45,4 @@ O faturamento em alto nível com Inteligência Artificial não vem do uso de uma
 
 ---
 
-Backbone confirmado → [[01 - Profissional/Projetos/Lara Comercial]] · Tensão Lovable → [[01 - Profissional/Projetos/Holos/Holos]] · Stack → 
+Backbone confirmado → [[Projetos/Lara Comercial]] · Tensão Lovable → [[Projetos/Holos/Holos]] · Stack → 

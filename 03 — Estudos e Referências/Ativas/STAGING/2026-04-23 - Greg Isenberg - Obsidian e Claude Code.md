@@ -62,4 +62,4 @@ Criado pela própria IA durante uma execução do `/ideas`. Escaneia notas diár
 
 ---
 
-Jarvis OS → [[00 - Pessoal/Como trabalho com IA]] · Pesquisa complementar → [[02 - Pesquisas e Estudos/Arquivadas/Curado/2026-04-19 - Claude + Obsidian]] · Perfil → [[00 - Pessoal/Diagnóstico Real]]
+Jarvis OS → [[00 — Quem Sou Nicolas/Como trabalho com IA]] · Pesquisa complementar → [[03 — Estudos e Referências/Arquivadas/Curado/2026-04-19 - Claude + Obsidian]] · Perfil → [[00 — Quem Sou Nicolas/Diagnóstico Real]]

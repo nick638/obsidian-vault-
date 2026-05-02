@@ -21,7 +21,7 @@ tags: [agente, negocio, scout, holos]
 2. **Scout de Assets:** Auditoria de arquivos multimídia (Vídeo/Foto/Copy) alocados no Vault.
 3. **Integração Maternal:** Retenção forçada da identidade matriz (a mãe do Senhor) no core dos processos gerados pelas automações.
 
-Sistema → [[01 - Profissional/Projetos/Holos/Holos - Sistema Técnico]] · Projeto → [[01 - Profissional/Projetos/Holos/Holos]] · Framework → [[02 - Pesquisas e Estudos/Ativas/Frameworks/SPIN Selling]] · Dinâmica → [[01 - Profissional/Projetos/Familia/Dinâmica Familiar]]
+Sistema → [[Projetos/Holos/Holos - Sistema Técnico]] · Projeto → [[Projetos/Holos/Holos]] · Framework → [[03 — Estudos e Referências/Ativas/Frameworks/SPIN Selling]] · Dinâmica → [[Projetos/Familia/Dinâmica Familiar]]
 
 ---
 [[_INDEX]]

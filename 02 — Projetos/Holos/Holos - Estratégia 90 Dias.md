@@ -36,7 +36,7 @@ tags: [holos, estrategia, 90-dias, gtm, advisory-board]
 - Comprar tráfego antes de ter o funil/Lara funcionando.
 - Ignorar os 12k alumni (Network Effect).
 - Bypass emocional na tia (Manter alinhamento humano).
-Alinhamento mensal → [[01 - Profissional/Areas/Estrategia/Planejamento Master]] · Motor da Fase 1 → [[01 - Profissional/Projetos/ZenPro/ZenPro]] · Base da oferta → [[01 - Profissional/Projetos/Holos/Holos - Modelo de Negócio]]
+Alinhamento mensal → [[Arquivo não encontrado — ver conteúdo migrado]] · Motor da Fase 1 → [[ZenPro/ZenPro]] · Base da oferta → [[Holos/Holos - Modelo de Negócio]]
 
 ---
-[[01 - Profissional/Projetos/Holos/Holos]] | [[01 - Profissional/Projetos/ZenPro/ZenPro]] | [[01 - Profissional/Projetos/Lara Comercial]]
+[[Holos/Holos]] | [[ZenPro/ZenPro]] | [[Lara Comercial]]

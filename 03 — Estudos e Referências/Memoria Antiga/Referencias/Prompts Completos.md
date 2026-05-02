@@ -173,7 +173,7 @@ REGRAS:
 - **Prompt = Produto:** A IA não é a ferramenta, é a entrega. N8N + Supabase formam apenas o esqueleto. O prompt define a retenção.
 - **Lara ⚠️ CONFIRMAR COM MÃE:** Pergunta bloqueante. Define se Lara converte ou apenas informa. Diferença entre receita e custo de infra.
 
-Usa estes prompts → [[01 - Profissional/Projetos/Clientes Externos/Metodologia de Captação]] · Runtime → [[03 - Memoria da IA/Referencias/N8N - Instruções Antigravity]]
+Usa estes prompts → [[Projetos/Clientes Externos/Metodologia de Captação]] · Runtime → [[03 — Estudos e Referências/Memoria Antiga/Referencias/N8N - Instruções Antigravity]]
 
 ---
-[[01 - Profissional/Projetos/Lara Comercial]] | [[01 - Profissional/Projetos/Holos/Holos - Sistema Técnico]] | [[02 - Pesquisas e Estudos/Ativas/Frameworks/SPIN Selling]]
+[[Projetos/Lara Comercial]] | [[Projetos/Holos/Holos - Sistema Técnico]] | [[03 — Estudos e Referências/Ativas/Frameworks/SPIN Selling]]

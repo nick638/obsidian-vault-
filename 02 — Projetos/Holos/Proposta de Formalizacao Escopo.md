@@ -35,6 +35,6 @@ Cobre o suporte do dia a dia e a máquina rodando.
 3. **Custo Variável (API/IA) = Repasse ou Aditivo.**
 4. **Sem Alinhamento de Valor = Sem Início.**
 
-Planejamento R$10k → [[01 - Profissional/Areas/Financeiro/Financeiro]] · Visão técnica → [[01 - Profissional/Projetos/Holos/Holos - Sistema Técnico]] · Regularização → [[01 - Profissional/Projetos/Lara Comercial]]
+Planejamento R$10k → [[Arquivo não encontrado — ver conteúdo migrado]] · Visão técnica → [[Holos/Holos - Sistema Técnico]] · Regularização → [[Lara Comercial]]
 
 ---

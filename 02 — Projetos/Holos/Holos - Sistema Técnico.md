@@ -10,7 +10,7 @@ tags: [projeto, familia, tecnico, prioridade, holos]
 
 # Holos — Sistema Técnico
 
-> Infraestrutura e Prompts da Lara Comercial 2. Conectado: [[01 - Profissional/Projetos/Holos/Holos]] · [[02 - Pesquisas e Estudos/Ativas/Frameworks/SPIN Selling]] · [[03 - Memoria da IA/Referencias/N8N]].
+> Infraestrutura e Prompts da Lara Comercial 2. Conectado: [[Holos/Holos]] · [[03 — Estudos e Referências/Ativas/Frameworks/SPIN Selling]] · [[03 — Estudos e Referências/Memoria Antiga/Referencias/N8N]].
 
 ## 1. Infraestrutura (VPS)
 | Camada | Serviço | Função |
@@ -62,4 +62,4 @@ id (uuid), codigo_curso (text), nome (text), descricao (text), grade_curricular 
 3. **Como diferencia comprador de curioso?** (Critério de funil).
 
 ---
-[[01 - Profissional/Projetos/Holos/Holos]] | [[01 - Profissional/Projetos/Lara Comercial]] | [[03 - Memoria da IA/Referencias/Prompts Completos]]
+[[Holos/Holos]] | [[Lara Comercial]] | [[03 — Estudos e Referências/Memoria Antiga/Referencias/Prompts Completos]]

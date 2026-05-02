@@ -57,4 +57,4 @@ Artigos encontrados sobre o tema:
 
 ---
 
-CRM vertical → [[02 - Pesquisas e Estudos/Ativas/Experts/Afonso Lopes/Protocolo CRM Clínica Estética]] · Agente integrado → [[01 - Profissional/Projetos/Lara Comercial]] · SaaS → [[01 - Profissional/Projetos/Unimasso/Unimasso]]
+CRM vertical → [[03 — Estudos e Referências/Ativas/Experts/Afonso Lopes/Protocolo CRM Clínica Estética]] · Agente integrado → [[Projetos/Lara Comercial]] · SaaS → [[Projetos/Unimasso/Unimasso]]

@@ -28,4 +28,4 @@ area: pesquisa
 - **Auditoria:** Gap de 71 cursos e domínios preservados literalmente. Caveman style.
 
 ---
-[[01 - Profissional/Projetos/Holos/Holos]] | [[01 - Profissional/Projetos/Lara Comercial]] | [[01 - Profissional/Projetos/Bumblebee 2.0]] | [[_INDEX]]
+[[Projetos/Holos/Holos]] | [[Projetos/Lara Comercial]] | [[Projetos/Bumblebee 2.0]] | [[_INDEX]]

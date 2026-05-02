@@ -16,6 +16,6 @@ area: pesquisa
 - **Prova de Tese:** *"Resultado é a única coisa que diferencia um louco de um gênio."* — Os 10k são a evidência matemática de que a visão não era um delírio.
 - **Filtro de Ação:** O projeto atual travou? Pergunta central: *"Isso me afasta de não depender de ninguém?"* Se a resposta for sim, é apenas o TDAH barrando a execução. Tratore.
 
-Neurologia → [[00 - Pessoal/Areas/Neurologia]] · Propósito → [[00 - Pessoal/Areas/Propósito]]
+Neurologia → [[00 — Quem Sou Nicolas/Areas/Neurologia]] · Propósito → [[00 — Quem Sou Nicolas/Areas/Propósito]]
 
 ---

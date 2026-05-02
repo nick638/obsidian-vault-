@@ -27,4 +27,4 @@ tags: [agente, tech, frontend, ui]
 4. **Fidelidade Estética:** Aplicação rigorosa de Glassmorphism v2 (opacidade, blurs estipulados pela Mia).
 
 ---
-[[03 - Memoria da IA/Referencias/Vibe Coding]] | [[_INDEX]]
+[[03 — Estudos e Referências/Memoria Antiga/Referencias/Vibe Coding]] | [[_INDEX]]

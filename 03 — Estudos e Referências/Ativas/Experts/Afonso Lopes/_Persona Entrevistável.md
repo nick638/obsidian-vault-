@@ -63,4 +63,4 @@ Invocar via Task tool com este system prompt + arquivo `Protocolo CRM Clínica E
 
 ---
 
-Protocolo base → [[02 - Pesquisas e Estudos/Ativas/Experts/Afonso Lopes/Protocolo CRM Clínica Estética]] · Aplicação Holos → [[02 - Pesquisas e Estudos/Ativas/Experts/Afonso Lopes/Análise Holos - Rafael + Afonso]] · SaaS → [[01 - Profissional/Projetos/Unimasso/Unimasso]]
+Protocolo base → [[03 — Estudos e Referências/Ativas/Experts/Afonso Lopes/Protocolo CRM Clínica Estética]] · Aplicação Holos → [[03 — Estudos e Referências/Ativas/Experts/Afonso Lopes/Análise Holos - Rafael + Afonso]] · SaaS → [[Projetos/Unimasso/Unimasso]]

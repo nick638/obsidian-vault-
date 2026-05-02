@@ -17,6 +17,6 @@ area: pesquisa
 - **Regra Operacional:** Uma nota deve ser legível por alguém que esqueceu tudo sobre o projeto, porque neurologicamente, isso ocorre o tempo todo. 
 - Sem Vault: o dia começa pelo que é fácil. Com Vault: começa pelo que importa.
 
-Neurologia → [[00 - Pessoal/Areas/Neurologia]] · Propósito → [[00 - Pessoal/Areas/Propósito]]
+Neurologia → [[00 — Quem Sou Nicolas/Areas/Neurologia]] · Propósito → [[00 — Quem Sou Nicolas/Areas/Propósito]]
 
 ---

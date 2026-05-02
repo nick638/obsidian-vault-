@@ -101,7 +101,7 @@ Para uma escola como a Holos: 5.768 contatos no ZenPro. Cada disparo → Lara qu
 
 ---
 
-N8N → [[03 - Memoria da IA/Referencias/N8N]] · Frontend → [[03 - Memoria da IA/Referencias/Vibe Coding]] · IA → [[03 - Memoria da IA/Referencias/Inteligência Artificial]] · Canal → [[03 - Memoria da IA/Referencias/Evolution API]] · Stack → [[03 - Memoria da IA/Referencias/Stack Tecnológica]] · Holos → [[01 - Profissional/Projetos/Holos/Holos]]
+N8N → [[03 — Estudos e Referências/Memoria Antiga/Referencias/N8N]] · Frontend → [[03 — Estudos e Referências/Memoria Antiga/Referencias/Vibe Coding]] · IA → [[03 — Estudos e Referências/Memoria Antiga/Referencias/Inteligência Artificial]] · Canal → [[03 — Estudos e Referências/Memoria Antiga/Referencias/Evolution API]] · Stack → [[03 — Estudos e Referências/Memoria Antiga/Referencias/Stack Tecnológica]] · Holos → [[Projetos/Holos/Holos]]
 
 ---
-[[03 - Memoria da IA/Referencias/N8N]] | [[03 - Memoria da IA/Referencias/Stack Tecnológica]] | [[_INDEX]]
+[[03 — Estudos e Referências/Memoria Antiga/Referencias/N8N]] | [[03 — Estudos e Referências/Memoria Antiga/Referencias/Stack Tecnológica]] | [[_INDEX]]

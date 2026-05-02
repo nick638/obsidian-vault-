@@ -29,11 +29,11 @@ A Unimasso cresce passivamente ao se acoplar na Holos.
 - **Matemática do Flywheel:** 30 graduados × R$ 29,90 = **R$ 897/mês** passivo incremental por turma. Sem CAC (distribuição pela Holos).
 
 ## 4. Próximos Passos (Prioridade 4)
-- [ ] **Infra:** Criar WordPress Unimasso no EasyPanel. Desenvolvedor → [[01 - Profissional/Projetos/Familia/Revolucio — Sistema do Pai]]
+- [ ] **Infra:** Criar WordPress Unimasso no EasyPanel. Desenvolvedor → [[02 — Projetos/Familia/Revolucio — Sistema do Pai]]
 - [ ] **SEO:** Conectar Bumblebee 2.0 (2 posts/dia).
-- [ ] **Distribuição:** Inserir pitch Unimasso na oferta do EAD Holos. Motor de aquisição → [[01 - Profissional/Projetos/Holos/Holos]]
+- [ ] **Distribuição:** Inserir pitch Unimasso na oferta do EAD Holos. Motor de aquisição → [[Holos/Holos]]
 - [ ] **Formalização:** Definir com o pai o % sobre o crescimento da Uni gerado por esse flywheel.
-Detalhamento da ponte → [[01 - Profissional/Projetos/Familia/Flywheel Holos x Unimasso]]
+Detalhamento da ponte → [[02 — Projetos/Familia/Flywheel Holos x Unimasso]]
 
 ---
-[[01 - Profissional/Projetos/Familia/Flywheel Holos x Unimasso]] | [[01 - Profissional/Projetos/Holos/Holos]] | [[01 - Profissional/Projetos/Mapa da Alma/Mapa da Alma]]
+[[02 — Projetos/Familia/Flywheel Holos x Unimasso]] | [[Holos/Holos]] | [[Mapa da Alma/Mapa da Alma]]

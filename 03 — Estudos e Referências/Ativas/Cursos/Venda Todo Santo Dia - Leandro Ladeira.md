@@ -24,6 +24,6 @@ tags: [curso, vendas, kpi, dashboard]
 | **Retenção/Follow-up** | Qualitativo | Flags `follow_up_1`, `2`, `3`. |
 | **Direção (R$ 10k)**| Estratégico | Meta Holos / ARR Tracker. |
 
-Dashboard → [[01 - Profissional/Projetos/Holos/Dashboard de Métricas]] · Monitor → [[03 - Memoria da IA/Referencias/Bugsy - QA & Auditor]]
+Dashboard → [[Projetos/Holos/Dashboard de Métricas]] · Monitor → [[03 — Estudos e Referências/Memoria Antiga/Referencias/Bugsy - QA & Auditor]]
 
 ---

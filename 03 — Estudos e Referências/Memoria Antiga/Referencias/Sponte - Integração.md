@@ -43,7 +43,7 @@ Upsert Supabase → Tabela de Turmas
 Upsert CRM_HOLOS → (etapa: matriculado)
 ```
 
-CronJob N8N → [[01 - Profissional/Projetos/Holos/Holos - Sistema Técnico]] · Consumidor → [[01 - Profissional/Projetos/Lara Comercial]]
+CronJob N8N → [[Projetos/Holos/Holos - Sistema Técnico]] · Consumidor → [[Projetos/Lara Comercial]]
 
 ---
-[[01 - Profissional/Projetos/Holos/Holos - Sistema Técnico]] | [[03 - Memoria da IA/Referencias/Estruturas de CRM]] | [[_INDEX]]
+[[Projetos/Holos/Holos - Sistema Técnico]] | [[03 — Estudos e Referências/Memoria Antiga/Referencias/Estruturas de CRM]] | [[_INDEX]]

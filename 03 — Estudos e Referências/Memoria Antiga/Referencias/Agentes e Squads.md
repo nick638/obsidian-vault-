@@ -49,7 +49,7 @@ tags: [ia, squads, claude]
 - [ ] `/copy-master` → Prompt Lara + Email warm-up.
 - [ ] `/brand-squad` → Identidade pessoal de Nicolas.
 
-Contexto squads → [[03 - Memoria da IA/Referencias/Claude Code - Arquitetura de Skills]] · Visão macro → [[03 - Memoria da IA/Referencias/Inteligência Artificial]]
+Contexto squads → [[03 — Estudos e Referências/Memoria Antiga/Referencias/Claude Code - Arquitetura de Skills]] · Visão macro → [[03 — Estudos e Referências/Memoria Antiga/Referencias/Inteligência Artificial]]
 
 ---
-[[03 - Memoria da IA/Referencias/Claude Code - Arquitetura de Skills]]
+[[03 — Estudos e Referências/Memoria Antiga/Referencias/Claude Code - Arquitetura de Skills]]

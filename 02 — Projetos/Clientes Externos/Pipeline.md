@@ -40,7 +40,7 @@ kanban-plugin: board
 
 
 > Gate 42: Nicholas constrói (predict dopamina) mas não vende (conclusion). Templates existem, cases existem. O único passo faltando é abordar.
-Como prospectar → [[01 - Profissional/Projetos/Clientes Externos/Prospecção Ativa]] · Delivery → [[01 - Profissional/Projetos/Clientes Externos/Metodologia de Captação]] · Por que o kanban está vazio → [[00 - Pessoal/Diagnóstico Real]]
+Como prospectar → [[Clientes Externos/Prospecção Ativa]] · Delivery → [[Clientes Externos/Metodologia de Captação]] · Por que o kanban está vazio → [[00 — Quem Sou Nicolas/Diagnóstico Real]]
 
 
 

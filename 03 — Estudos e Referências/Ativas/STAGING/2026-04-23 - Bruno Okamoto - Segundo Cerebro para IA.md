@@ -48,4 +48,4 @@ Em 2026, todas as grandes empresas de IA (Claude, OpenAI) estão lançando "estr
 
 ---
 
-Skills → [[00 - Pessoal/Como trabalho com IA]] · WhatsApp→Obsidian → [[01 - Profissional/Projetos/Lara Comercial]] · Backbone → [[03 - Memoria da IA/Referencias/N8N]]
+Skills → [[00 — Quem Sou Nicolas/Como trabalho com IA]] · WhatsApp→Obsidian → [[Projetos/Lara Comercial]] · Backbone → [[03 — Estudos e Referências/Memoria Antiga/Referencias/N8N]]

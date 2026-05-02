@@ -33,11 +33,11 @@ tags: [familia, estrategia, flywheel, holos, unimasso]
 - **Fase 4:** Tráfego orgânico Unimasso retroalimenta Holos.
 
 ## 4. Projeção Financeira
-- **Recorrência:** R$ 29,90/mês por aluno formado convertido na Uni. → [[01 - Profissional/Projetos/Unimasso/Unimasso]]
-- **Participação EAD:** 15% sobre vendas (estimativa R$ 500–1.000/mês). Origem dos leads → [[01 - Profissional/Projetos/Holos/Holos]]
+- **Recorrência:** R$ 29,90/mês por aluno formado convertido na Uni. → [[Unimasso/Unimasso]]
+- **Participação EAD:** 15% sobre vendas (estimativa R$ 500–1.000/mês). Origem dos leads → [[Holos/Holos]]
 - **Redução de CAC:** O custo de aquisição cai conforme o ciclo orgânico acelera.
-Stakeholders do ciclo → [[01 - Profissional/Projetos/Familia/Dinâmica Familiar]] · GTM de suporte → [[01 - Profissional/Projetos/Holos/Holos - Estratégia 90 Dias]]
+Stakeholders do ciclo → [[02 — Projetos/Familia/Dinâmica Familiar]] · GTM de suporte → [[Holos/Holos - Estratégia 90 Dias]]
 
 ---
-[[01 - Profissional/Projetos/Holos/Holos]] | [[01 - Profissional/Projetos/Unimasso/Unimasso]] | [[01 - Profissional/Projetos/Holos/Holos - Estratégia 90 Dias]]
+[[Holos/Holos]] | [[Unimasso/Unimasso]] | [[Holos/Holos - Estratégia 90 Dias]]
 

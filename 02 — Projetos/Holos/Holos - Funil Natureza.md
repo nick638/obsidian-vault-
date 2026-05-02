@@ -24,7 +24,7 @@ Fluxo automatizado para a imersão Holos Natureza:
 2. **Megami (Copy):** Transforma MAR em Copy de alta conversão.
 3. **Titia Dark (Prompt v0):** Gera o prompt técnico para o `v0.dev`.
 
-Início da esteira → [[01 - Profissional/Projetos/Holos/Funis/Esteira Thiago/01 - Tarkov - Briefing]] · Fim (prompt v0) → [[01 - Profissional/Projetos/Holos/Funis/Esteira Thiago/03 - Titia - Prompt v0 Holos]] · Destino da UI → [[01 - Profissional/Projetos/Holos/Holos - Site 2.0]]
+Início da esteira → [[Holos/Funis/Esteira Thiago/01 - Tarkov - Briefing]] · Fim (prompt v0) → [[Holos/Funis/Esteira Thiago/03 - Titia - Prompt v0 Holos]] · Destino da UI → [[Holos/Holos - Site 2.0]]
 
 ---
-[[01 - Profissional/Projetos/Holos/Holos - Site 2.0]] | [[01 - Profissional/Projetos/Holos/Holos]]
+[[Holos/Holos - Site 2.0]] | [[Holos/Holos]]

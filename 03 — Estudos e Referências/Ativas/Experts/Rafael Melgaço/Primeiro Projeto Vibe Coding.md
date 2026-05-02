@@ -29,4 +29,4 @@ Nunca criar o que já existe, exceto para inovar em custo ou velocidade.
 - **Auditoria:** Framework 3 Tempos, Filtro de Problema e Tino AI preservados. Caveman style.
 
 ---
-[[02 - Pesquisas e Estudos/Ativas/Experts/Rafael Melgaço/Protocolo R$10k com IA]] | [[03 - Memoria da IA/Referencias/Vibe Coding]] | [[01 - Profissional/Projetos/Lara Comercial]] | [[_INDEX]]
+[[03 — Estudos e Referências/Ativas/Experts/Rafael Melgaço/Protocolo R$10k com IA]] | [[03 — Estudos e Referências/Memoria Antiga/Referencias/Vibe Coding]] | [[Projetos/Lara Comercial]] | [[_INDEX]]

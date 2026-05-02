@@ -102,10 +102,10 @@ Vercel (front) + Hetzner/EasyPanel (N8N self-hosted)
 5. Pixel Meta + GA + tracking
 
 ### ⚠️ Decisões pendentes
-- Conectar com Unimasso Plus desde dia 1 ou rodar standalone primeiro? Destino final → [[01 - Profissional/Projetos/Unimasso/Unimasso]]
-- Domínio próprio ou subdomínio Holos? Canal de distribuição → [[01 - Profissional/Projetos/Holos/Holos]]
+- Conectar com Unimasso Plus desde dia 1 ou rodar standalone primeiro? Destino final → [[Unimasso/Unimasso]]
+- Domínio próprio ou subdomínio Holos? Canal de distribuição → [[Holos/Holos]]
 - Pagamento: Stripe Brasil, Mercado Pago ou Asaas?
-Contexto flywheel → [[01 - Profissional/Projetos/Familia/Flywheel Holos x Unimasso]]
+Contexto flywheel → [[02 — Projetos/Familia/Flywheel Holos x Unimasso]]
 
 ---
 
@@ -150,4 +150,4 @@ Subgates:
 ---
 
 ---
-[[01 - Profissional/Projetos/Unimasso/Unimasso]] | [[01 - Profissional/Projetos/Holos/Holos]] | [[01 - Profissional/Areas/Financeiro/Financeiro]]
+[[Unimasso/Unimasso]] | [[Holos/Holos]] | [[Arquivo não encontrado — ver conteúdo migrado]]

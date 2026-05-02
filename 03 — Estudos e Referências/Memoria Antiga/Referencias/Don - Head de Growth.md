@@ -29,4 +29,4 @@ Don (Instrui Copy Master: VSL + Sales Closer: WhatsApp)
 ```
 
 ---
-[[03 - Memoria da IA/Referencias/Copy Master - VSL & Ofertas]] | [[_INDEX]]
+[[03 — Estudos e Referências/Memoria Antiga/Referencias/Copy Master - VSL & Ofertas]] | [[_INDEX]]

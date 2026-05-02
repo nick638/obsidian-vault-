@@ -29,4 +29,4 @@ Mia (Aciona UI Expert: Glassmorphism, noise textures)
 - **Goal Tácito:** Output que pareça um produto de US$ 100k.
 
 ---
-[[03 - Memoria da IA/Referencias/UI Expert - Interfaces]] | [[_INDEX]]
+[[03 — Estudos e Referências/Memoria Antiga/Referencias/UI Expert - Interfaces]] | [[_INDEX]]

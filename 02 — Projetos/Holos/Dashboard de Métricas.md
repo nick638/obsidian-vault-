@@ -40,7 +40,7 @@ tags: [holos, metricas, kpi, dashboard, analytics]
 ⚡ Insights: [O que ajustar no prompt/campanha]
 ```
 
-Schemas das tabelas → [[01 - Profissional/Projetos/Holos/Holos - Sistema Técnico]] · Funil de conversão → [[01 - Profissional/Projetos/Holos/Holos - Modelo de Negócio]]
+Schemas das tabelas → [[Holos/Holos - Sistema Técnico]] · Funil de conversão → [[Holos/Holos - Modelo de Negócio]]
 
 ---
-[[01 - Profissional/Projetos/Holos/Holos - Sistema Técnico]] | [[01 - Profissional/Projetos/Lara Comercial]] | [[01 - Profissional/Projetos/Holos/Holos]]
+[[Holos/Holos - Sistema Técnico]] | [[Lara Comercial]] | [[Holos/Holos]]

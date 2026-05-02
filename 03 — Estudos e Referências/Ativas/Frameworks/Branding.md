@@ -22,6 +22,6 @@ tags: [recurso, branding, marketing]
 ## 3. Loop de Amplificação (Meta Ads)
 `Branding → Meta Ads → Conversão` (Ads sem branding = CPA Altíssimo).
 
-Fonte → [[02 - Pesquisas e Estudos/Ativas/Cursos/Super Ads - Rui Costa]] · Portfólio → [[01 - Profissional/Projetos/Nicolas Portfolio/Nicolas Portfolio]]
+Fonte → [[03 — Estudos e Referências/Ativas/Cursos/Super Ads - Rui Costa]] · Portfólio → [[Projetos/Nicolas Portfolio/Nicolas Portfolio]]
 
 ---

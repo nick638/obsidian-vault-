@@ -16,6 +16,6 @@ area: pesquisa
 - Se o prompt for raso, o sistema quebra na edge-case e a **Recorrência (MRR) Morre**.
 - Prompts devem embutir qualificação Sênior e atendimento humanizado.
 
-ERA → [[02 - Pesquisas e Estudos/Ativas/Cursos/Método ERA - Afonso Lopes]] · Prompts → [[03 - Memoria da IA/Referencias/Prompts Completos]]
+ERA → [[03 — Estudos e Referências/Ativas/Cursos/Método ERA - Afonso Lopes]] · Prompts → [[03 — Estudos e Referências/Memoria Antiga/Referencias/Prompts Completos]]
 
 ---

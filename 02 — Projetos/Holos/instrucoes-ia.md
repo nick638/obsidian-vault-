@@ -30,7 +30,7 @@ Base: 900 alunos ativos (Holos Connect) + 8.700 contatos ZenPro.
 3. Concorrentes para não imitar: Aprenda Massoterapia, Instituto Lis, Widom
 
 ### Tasks familiares / stakeholders
-1. Ler [[Familia/Dinâmica Familiar]] antes de qualquer comunicação com tia ou pai
+1. Ler [[02 — Projetos/Familia/Dinâmica Familiar]] antes de qualquer comunicação com tia ou pai
 2. Crítica à Tia Lu = reconhecimento ANTES da correção. Nunca seco.
 
 ## Formato de output padrão
@@ -43,4 +43,4 @@ Base: 900 alunos ativos (Holos Connect) + 8.700 contatos ZenPro.
 - [[Holos - Sistema Técnico]] — infra e prompts
 - [[Holos - Estratégia 90 Dias]] — prioridades
 - [[Lara Comercial]] — agente IA
-- [[Familia/Dinâmica Familiar]] — stakeholders
+- [[02 — Projetos/Familia/Dinâmica Familiar]] — stakeholders

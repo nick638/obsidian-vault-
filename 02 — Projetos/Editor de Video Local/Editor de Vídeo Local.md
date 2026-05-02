@@ -41,6 +41,6 @@ npx remotion render src/index.ts MinhaComposicao out/video.mp4
 - Não há dependência de internet para render.
 - Claude Code escreve e altera as transições via CLI (ex: "adiciona transição fade entre as cenas").
 
-Orquestrador → [[03 - Memoria da IA/Referencias/Claude Code - Como Usar]] · Implementação real → [[01 - Profissional/Projetos/Content Agent Holos/Content Agent Holos]]
+Orquestrador → [[03 — Estudos e Referências/Memoria Antiga/Referencias/Claude Code - Como Usar]] · Implementação real → [[Content Agent Holos/Content Agent Holos]]
 
 ---

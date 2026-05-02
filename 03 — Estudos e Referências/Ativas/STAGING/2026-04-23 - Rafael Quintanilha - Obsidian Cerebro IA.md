@@ -46,4 +46,4 @@ O Obsidian é o app definitivo para quem trabalha com Inteligência Artificial p
 
 ---
 
-Jarvis OS → [[00 - Pessoal/Como trabalho com IA]] · Protocolo → [[02 - Pesquisas e Estudos/Ativas/Ferramentas/2026-04-24 - Caveman Protocol]] · Perfil → [[00 - Pessoal/Diagnóstico Real]]
+Jarvis OS → [[00 — Quem Sou Nicolas/Como trabalho com IA]] · Protocolo → [[03 — Estudos e Referências/Ativas/Ferramentas/2026-04-24 - Caveman Protocol]] · Perfil → [[00 — Quem Sou Nicolas/Diagnóstico Real]]

@@ -32,6 +32,6 @@ tags: [curso, fe-alves, mentalidade, neurologia]
 - **Preços Estipulados:** Low-ticket R$ 7,77 → Módulos R$ 197 → Core Mídia R$ 997.
 - **Ferramentas:** Câmera (R$ 5k) do pai para EAD.
 
-Neurologia → [[00 - Pessoal/Areas/Neurologia]] · Lei 3 aplicada → [[01 - Profissional/Projetos/Holos/Holos]]
+Neurologia → [[00 — Quem Sou Nicolas/Areas/Neurologia]] · Lei 3 aplicada → [[Projetos/Holos/Holos]]
 
 ---

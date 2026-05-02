@@ -24,6 +24,6 @@ tags: [recurso, vendas, spin]
 - **Lara:** `Prompting N8N` estruturado no ciclo SPIN para escalar o EAD.
 - **Uni:** Adaptação B2B (Dores de agenda e controle financeiro).
 
-Implementação → [[03 - Memoria da IA/Referencias/Prompts Completos]] · Execução → [[01 - Profissional/Projetos/Lara Comercial]]
+Implementação → [[03 — Estudos e Referências/Memoria Antiga/Referencias/Prompts Completos]] · Execução → [[Projetos/Lara Comercial]]
 
 ---

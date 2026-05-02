@@ -16,6 +16,6 @@ area: pesquisa
 - **Ação:** Lançamento Interno de 7 dias (CPLs no WhatsApp).
 - **Gargalo:** Não é tráfego. É o acordo comercial de 15% de comissão sobre a matrícula do EAD com a liderança (Tia). Sem acordo, o custo de oportunidade inviabiliza o tempo operacional.
 
-ZenPro → [[01 - Profissional/Projetos/Holos/Holos - Sistema Técnico]] · Lançamento → [[02 - Pesquisas e Estudos/Ativas/Cursos/Fórmula de Lançamento - Erico Rocha]]
+ZenPro → [[Projetos/Holos/Holos - Sistema Técnico]] · Lançamento → [[03 — Estudos e Referências/Ativas/Cursos/Fórmula de Lançamento - Erico Rocha]]
 
 ---

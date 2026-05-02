@@ -31,7 +31,7 @@ Antes de abrir o próximo livro, obrigatório registrar em *Lidos e Aplicados*:
 - **Anti-TDAH:** Hiperfoco de aquisição vs. Déficit de aplicação. Forçar *checkout* mitiga letargia de output.
 - **$100M Offers:** Leitura antecede o uso da skill `/hormozi-squad` para maximizar embasamento do prompt.
 
-Mentalidade → [[00 - Pessoal/Areas/Mentalidade]] · Check-in → [[01 - Profissional/Areas/Estrategia/Planejamento Diário]]
+Mentalidade → [[00 — Quem Sou Nicolas/Areas/Mentalidade]] · Check-in → [[Arquivo não encontrado — ver conteúdo migrado]]
 
 ---
-[[00 - Pessoal/Areas/Mentalidade]] | [[_INDEX]]
+[[00 — Quem Sou Nicolas/Areas/Mentalidade]] | [[_INDEX]]

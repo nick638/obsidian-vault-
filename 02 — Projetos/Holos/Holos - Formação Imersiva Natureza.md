@@ -32,7 +32,7 @@ tags: [holos, imersao, natureza, presencial, premium]
 - **Conteúdo:** Fotos e depoimentos da imersão alimentam Reels/Stories por 2-3 semanas.
 - **Funil:** Experiência Imersiva → Conversão para Formação Completa/EAD.
 
-Briefing do funil → [[01 - Profissional/Projetos/Holos/Funis/Esteira Thiago/01 - Tarkov - Briefing]] · Canal de ativação → [[01 - Profissional/Projetos/ZenPro/ZenPro]] · Suporte ao lead → [[01 - Profissional/Projetos/Holos/Holos - Sistema Técnico]]
+Briefing do funil → [[Holos/Funis/Esteira Thiago/01 - Tarkov - Briefing]] · Canal de ativação → [[ZenPro/ZenPro]] · Suporte ao lead → [[Holos/Holos - Sistema Técnico]]
 
 ---
-[[01 - Profissional/Projetos/Holos/Holos]] | [[01 - Profissional/Projetos/ZenPro/ZenPro]] | [[01 - Profissional/Projetos/Holos/Holos - Estratégia 90 Dias]]
+[[Holos/Holos]] | [[ZenPro/ZenPro]] | [[Holos/Holos - Estratégia 90 Dias]]

@@ -65,7 +65,7 @@ n8n_update_partial_workflow({
 - `@n8n/n8n-nodes-langchain.agent`
 - `n8n-nodes-base.postgres`
 
-Visão macro → [[03 - Memoria da IA/Referencias/N8N]] · Setup MCP → [[03 - Memoria da IA/Referencias/Antigravity - Setup n8n-MCP]]
+Visão macro → [[03 — Estudos e Referências/Memoria Antiga/Referencias/N8N]] · Setup MCP → [[03 — Estudos e Referências/Memoria Antiga/Referencias/Antigravity - Setup n8n-MCP]]
 
 ---
-[[03 - Memoria da IA/Referencias/N8N]] | [[03 - Memoria da IA/Referencias/Antigravity - Setup n8n-MCP]] | [[_INDEX]]
+[[03 — Estudos e Referências/Memoria Antiga/Referencias/N8N]] | [[03 — Estudos e Referências/Memoria Antiga/Referencias/Antigravity - Setup n8n-MCP]] | [[_INDEX]]

@@ -19,10 +19,10 @@ area: pesquisa
 5. **Som (ElevenLabs):** Voz emocional (Respiração, pausas).
 6. **Montagem (CapCut):** Sincronia SFX + Trilha.
 
-Fundamento → [[02 - Pesquisas e Estudos/Ativas/Experts/Thiago.c0de/Criativos Cinematográficos]] · Aplicação → [[01 - Profissional/Projetos/Holos/Holos - Formação Imersiva Natureza]]
+Fundamento → [[03 — Estudos e Referências/Ativas/Experts/Thiago.c0de/Criativos Cinematográficos]] · Aplicação → [[Projetos/Holos/Holos - Formação Imersiva Natureza]]
 
 ---
 - **Auditoria:** Stack técnica (Flux, Kling AI, ElevenLabs, CapCut) e regra de clipes de 5s preservados. Caveman style.
 
 ---
-[[02 - Pesquisas e Estudos/Ativas/Experts/Thiago.c0de/Criativos Cinematográficos]] | [[01 - Profissional/Projetos/Holos/Holos - Funil Natureza]] | [[_INDEX]]
+[[03 — Estudos e Referências/Ativas/Experts/Thiago.c0de/Criativos Cinematográficos]] | [[Projetos/Holos/Holos - Funil Natureza]] | [[_INDEX]]

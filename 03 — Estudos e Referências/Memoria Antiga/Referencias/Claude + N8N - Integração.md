@@ -40,7 +40,7 @@ WhatsApp → N8N → HTTP Request (Claude API) → Classifica Intenção → N8N
 - [ ] Testar curl do Claude Code apontando pro webhook.
 - [ ] Expandir para endpoints `follow_up` e `lead_update`.
 
-MCP técnico → [[03 - Memoria da IA/Referencias/N8N - Instruções Antigravity]] · Classificação → [[01 - Profissional/Projetos/Lara Comercial]]
+MCP técnico → [[03 — Estudos e Referências/Memoria Antiga/Referencias/N8N - Instruções Antigravity]] · Classificação → [[Projetos/Lara Comercial]]
 
 ---
-[[03 - Memoria da IA/Referencias/N8N]] | [[03 - Memoria da IA/Referencias/N8N - Instruções Antigravity]] | [[_INDEX]]
+[[03 — Estudos e Referências/Memoria Antiga/Referencias/N8N]] | [[03 — Estudos e Referências/Memoria Antiga/Referencias/N8N - Instruções Antigravity]] | [[_INDEX]]

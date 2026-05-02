@@ -26,6 +26,6 @@ tags: [curso, ia, automacao, pricing]
 ## 3. Fórmula: Oferta Irresistível
 `Valor Percebido = (Resultado Desejado × Probabilidade) / (Tempo × Esforço)`
 
-JSON structure → [[03 - Memoria da IA/Referencias/Prompts Completos]] · Fluxo 30k → [[03 - Memoria da IA/Referencias/Nick - Head de Automacao]]
+JSON structure → [[03 — Estudos e Referências/Memoria Antiga/Referencias/Prompts Completos]] · Fluxo 30k → [[03 — Estudos e Referências/Memoria Antiga/Referencias/Nick - Head de Automacao]]
 
 ---

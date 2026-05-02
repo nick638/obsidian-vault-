@@ -29,7 +29,7 @@ WhatsApp Cliente ↔ Evolution API ↔ N8N ↔ Agente IA
 > ⚠️ **CRITICAL:** Banimento de WhatsApp.
 O disparo da HolosEAD processa base de 5.768 contatos. Cadência de disparo hardcoded: **15s entre envios**. Romper esse rate-limit = bloqueio instantâneo do Meta = quebra de toda a pipeline de vendas ativas.
 
-Disparos → [[01 - Profissional/Projetos/ZenPro/ZenPro]] · Inbox → [[03 - Memoria da IA/Referencias/Chatwoot]]
+Disparos → [[Projetos/ZenPro/ZenPro]] · Inbox → [[03 — Estudos e Referências/Memoria Antiga/Referencias/Chatwoot]]
 
 ---
-[[03 - Memoria da IA/Referencias/N8N]] | [[01 - Profissional/Projetos/ZenPro/ZenPro]] | [[03 - Memoria da IA/Referencias/Chatwoot]]
+[[03 — Estudos e Referências/Memoria Antiga/Referencias/N8N]] | [[Projetos/ZenPro/ZenPro]] | [[03 — Estudos e Referências/Memoria Antiga/Referencias/Chatwoot]]

@@ -51,7 +51,7 @@ Posso te mostrar como funcionaria para o seu negócio em 15 minutos?
 - **Reunião:** 3-5/semana.
 - **Meta:** 1 fechamento/mês.
 
-Delivery → [[01 - Profissional/Projetos/Clientes Externos/Metodologia de Captação]] · Templates prontos → [[01 - Profissional/Projetos/Clientes Externos/Templates de Curso]] · Case principal → [[01 - Profissional/Projetos/Holos/Holos]]
+Delivery → [[Clientes Externos/Metodologia de Captação]] · Templates prontos → [[Clientes Externos/Templates de Curso]] · Case principal → [[Holos/Holos]]
 
 ---
-[[01 - Profissional/Projetos/Clientes Externos/Metodologia de Captação]] | [[01 - Profissional/Projetos/Holos/Holos]] | [[01 - Profissional/Projetos/Nicolas Portfolio/Nicolas Portfolio]]
+[[Clientes Externos/Metodologia de Captação]] | [[Holos/Holos]] | [[Nicolas Portfolio/Nicolas Portfolio]]

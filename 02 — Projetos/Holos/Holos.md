@@ -15,7 +15,7 @@ tags: [projeto, familia, prioridade, ativo, holos]
 ## 1. Visão Geral
 - **Dona:** Tia Luciana Maier.
 - **Papel:** Nicolas (CTO/Estrategista).
-- **Conexão:** [[01 - Profissional/Projetos/Familia/Flywheel Holos x Unimasso]].
+- **Conexão:** [[02 — Projetos/Familia/Flywheel Holos x Unimasso]].
 
 ## 2. Desbloqueio (Diagnóstico Real)
 - **Bloqueio:** TDAH nos 10% finais (Lara 90%). Falta de dopamina na fase chata (testes/ajustes).
@@ -53,7 +53,7 @@ Chatwoot (WhatsApp) → Assistente Holos (Lara)
 ## 5. Sistemas e Equipe
 - **Métrica:** Alunos ativos (Holos Connect): 900. Contatos ZenPro: ~8.700.
 - **Movimento:** Lara suporta Giovanna → Giovanna substitui mãe no comercial.
-Infra e prompts → [[01 - Profissional/Projetos/Holos/Holos - Sistema Técnico]] · Ações táticas → [[01 - Profissional/Projetos/Holos/Holos - Estratégia 90 Dias]] · Stakeholders familiares → [[01 - Profissional/Projetos/Familia/Dinâmica Familiar]]
+Infra e prompts → [[Holos/Holos - Sistema Técnico]] · Ações táticas → [[Holos/Holos - Estratégia 90 Dias]] · Stakeholders familiares → [[02 — Projetos/Familia/Dinâmica Familiar]]
 
 ---
-[[01 - Profissional/Projetos/Holos/Holos - Sistema Técnico]] | [[01 - Profissional/Projetos/Lara Comercial]] | [[01 - Profissional/Projetos/Holos/Holos - Estratégia 90 Dias]]
+[[Holos/Holos - Sistema Técnico]] | [[Lara Comercial]] | [[Holos/Holos - Estratégia 90 Dias]]

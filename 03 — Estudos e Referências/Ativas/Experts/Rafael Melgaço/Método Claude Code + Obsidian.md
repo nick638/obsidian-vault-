@@ -21,10 +21,10 @@ area: pesquisa
 2. **Especificação:** Responde perguntas de detalhe.
 3. **Sucesso:** Define critério de sucesso ANTES de executar.
 
-N8N → [[03 - Memoria da IA/Referencias/N8N]] · Prompts → [[03 - Memoria da IA/Referencias/Prompts Completos]]
+N8N → [[03 — Estudos e Referências/Memoria Antiga/Referencias/N8N]] · Prompts → [[03 — Estudos e Referências/Memoria Antiga/Referencias/Prompts Completos]]
 
 ---
 - **Auditoria:** Citação sobre "Empresário sem memória" e workflow Spec-First preservados. Caveman style.
 
 ---
-[[02 - Pesquisas e Estudos/Ativas/Experts/Rafael Melgaço/Stack Vibe Coding]] | [[03 - Memoria da IA/Referencias/Claude Code - Como Usar]] | [[_INDEX]]
+[[03 — Estudos e Referências/Ativas/Experts/Rafael Melgaço/Stack Vibe Coding]] | [[03 — Estudos e Referências/Memoria Antiga/Referencias/Claude Code - Como Usar]] | [[_INDEX]]

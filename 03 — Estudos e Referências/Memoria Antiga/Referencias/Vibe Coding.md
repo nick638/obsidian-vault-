@@ -30,7 +30,7 @@ tags: [vibe-coding, lovable, deploy]
 > "Não altere páginas existentes. Concentre mudanças apenas no módulo novo."
 *(Guardrail padrão para atualizações sistêmicas)*
 
-Benchmark → [[01 - Profissional/Projetos/ZenPro/ZenPro]] · Matriz ferramentas → [[03 - Memoria da IA/Referencias/Ferramentas de IA]]
+Benchmark → [[Projetos/ZenPro/ZenPro]] · Matriz ferramentas → [[03 — Estudos e Referências/Memoria Antiga/Referencias/Ferramentas de IA]]
 
 ---
-[[01 - Profissional/Projetos/ZenPro/ZenPro]] | [[01 - Profissional/Projetos/Holos/Holos - Site 2.0]] | [[03 - Memoria da IA/Referencias/Stack Tecnológica]]
+[[Projetos/ZenPro/ZenPro]] | [[Projetos/Holos/Holos - Site 2.0]] | [[03 — Estudos e Referências/Memoria Antiga/Referencias/Stack Tecnológica]]

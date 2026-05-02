@@ -26,4 +26,4 @@ tags: [agente, tech, backend, banco-de-dados]
 3. **Sanitização Rigorosa:** Todo input é hostil até ser validado.
 
 ---
-[[03 - Memoria da IA/Referencias/Estruturas de CRM]] | [[_INDEX]]
+[[03 — Estudos e Referências/Memoria Antiga/Referencias/Estruturas de CRM]] | [[_INDEX]]

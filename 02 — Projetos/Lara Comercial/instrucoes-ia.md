@@ -19,7 +19,7 @@ Projeto fecha quando:
 
 ## Restrições absolutas
 - **Zero features novas antes de subir em produção.** Se usuário pedir nova feature → redirecionar para gate.
-- Mudanças de prompt master → checar [[03 - Memoria da IA/Referencias/Prompts Completos]] primeiro
+- Mudanças de prompt master → checar [[03 — Estudos e Referências/Memoria Antiga/Referencias/Prompts Completos]] primeiro
 - Alterações de infra → checar [[Holos - Sistema Técnico]]
 
 ## Como operar
@@ -30,7 +30,7 @@ Projeto fecha quando:
 3. Output: código N8N (JavaScript) ou query Supabase, sempre com explicação do porquê
 
 ### Avanço do gate (conversa com Tia Lu)
-1. Ler [[Familia/Dinâmica Familiar]] — protocolo com Tia Lu
+1. Ler [[02 — Projetos/Familia/Dinâmica Familiar]] — protocolo com Tia Lu
 2. Preparar script de conversa: contexto → proposta → validação (nunca surpresa)
 3. Critérios de qualificação = perguntas que a Lara faz antes de apresentar oferta
 
@@ -48,6 +48,6 @@ Projeto fecha quando:
 
 ## Arquivos-chave
 - [[Holos - Sistema Técnico]] — infra completa
-- [[03 - Memoria da IA/Referencias/Prompts Completos]] — prompt master Lara
-- [[Familia/Dinâmica Familiar]] — como falar com Tia Lu
+- [[03 — Estudos e Referências/Memoria Antiga/Referencias/Prompts Completos]] — prompt master Lara
+- [[02 — Projetos/Familia/Dinâmica Familiar]] — como falar com Tia Lu
 - [[Holos]] — contexto pai

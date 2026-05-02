@@ -38,8 +38,8 @@ Você é o REVOLUCIO, meu Sistema de Inteligência Pessoal... [Conduzir entrevis
 ## 4. Matriz de Papéis (Abril 2026)
 - **Pai:** Vendedor/Expert. Branding pessoal e rosto da Holos. Sai da técnica.
 - **Nicolas:** CTO 100% Técnico. Ponte Pai → Sistemas. Manutenção e novos projetos.
-Formalização do par → [[01 - Profissional/Projetos/Familia/Proposta Formalização Nicolas v2]] · Cliente principal → [[01 - Profissional/Projetos/Holos/Holos]] · Stakeholders → [[01 - Profissional/Projetos/Familia/Dinâmica Familiar]]
+Formalização do par → [[02 — Projetos/Familia/Proposta Formalização Nicolas v2]] · Cliente principal → [[Holos/Holos]] · Stakeholders → [[02 — Projetos/Familia/Dinâmica Familiar]]
 
 ---
-[[01 - Profissional/Projetos/Holos/Holos]] | [[01 - Profissional/Projetos/Familia/Dinâmica Familiar]] | [[01 - Profissional/Projetos/Familia/Proposta Formalização Nicolas v2]]
+[[Holos/Holos]] | [[02 — Projetos/Familia/Dinâmica Familiar]] | [[02 — Projetos/Familia/Proposta Formalização Nicolas v2]]
 

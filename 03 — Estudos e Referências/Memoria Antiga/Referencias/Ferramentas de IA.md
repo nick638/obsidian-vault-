@@ -33,7 +33,7 @@ tags: [ia, stack, ferramentas]
 | **Bumblebee 2.0** | Postagem WP (2/dia via GPT). | ✅ Script Pronto (aguarda webhook). |
 | **Categorias/Tags v1.1**| Ontologia de posts. | ✅ Script Pronto. |
 
-Core stack → [[03 - Memoria da IA/Referencias/Stack Tecnológica]] · SEO bot → [[01 - Profissional/Projetos/Bumblebee 2.0]]
+Core stack → [[03 — Estudos e Referências/Memoria Antiga/Referencias/Stack Tecnológica]] · SEO bot → [[Projetos/Bumblebee 2.0]]
 
 ---
-[[03 - Memoria da IA/Referencias/Stack Tecnológica]] | [[_INDEX]]
+[[03 — Estudos e Referências/Memoria Antiga/Referencias/Stack Tecnológica]] | [[_INDEX]]

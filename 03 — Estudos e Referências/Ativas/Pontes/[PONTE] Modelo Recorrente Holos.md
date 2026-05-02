@@ -11,7 +11,7 @@ area: profissional
 
 > **A Holos não é só o primeiro projeto. É a prova viva de que o ERA funciona.**
 
-Execução → [[01 - Profissional/Projetos/Holos/Holos]] · Próximo passo → [[01 - Profissional/Projetos/Clientes Externos/Prospecção Ativa]] · Destino → [[00 - Pessoal/Areas/Carreira]]
+Execução → [[Projetos/Holos/Holos]] · Próximo passo → [[Projetos/Clientes Externos/Prospecção Ativa]] · Destino → [[00 — Quem Sou Nicolas/Areas/Carreira]]
 
 ## ERA na Holos — concreto
 
@@ -28,4 +28,4 @@ E e R existem. A está atrasada.
 Quando a Lara subir e o case for documentado: Nicolas não diz "eu sei fazer". Diz "já fiz — aqui está o resultado". Isso muda o preço que pode cobrar. Isso muda a objeção do prospect. Isso muda a conversa inteira.
 
 ---
-[[01 - Profissional/Projetos/Holos/Holos]] | [[01 - Profissional/Projetos/Clientes Externos/Prospecção Ativa]] | [[_INDEX]]
+[[Projetos/Holos/Holos]] | [[Projetos/Clientes Externos/Prospecção Ativa]] | [[_INDEX]]

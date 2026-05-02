@@ -34,7 +34,7 @@ tags: [scripts, python, dev, memoria, ferramentas]
 ## 3. Segurança Estrutural
 > ⚠️ **CRITICAL:** Proibido mover scripts. Paths absolutos estão hardcoded no Vault, no `.claude/settings.json` e no `CLAUDE.md`.
 
-Contexto agente → [[03 - Memoria da IA/Referencias/Claude Code - Como Usar]] · Arsenal → [[03 - Memoria da IA/Referencias/Skills e MCPs]]
+Contexto agente → [[03 — Estudos e Referências/Memoria Antiga/Referencias/Claude Code - Como Usar]] · Arsenal → [[03 — Estudos e Referências/Memoria Antiga/Referencias/Skills e MCPs]]
 
 ---
-[[03 - Memoria da IA/Referencias/Claude Code - Como Usar]] | [[_INDEX]]
+[[03 — Estudos e Referências/Memoria Antiga/Referencias/Claude Code - Como Usar]] | [[_INDEX]]

@@ -16,6 +16,6 @@ area: pesquisa
 - **Solução:** O Branding Pessoal + Portfólio alimentam o "A" (Autoridade) da Metodologia ERA.
 - **Ação:** Publicar o Case Holos publicamente → Elevar o Pricing Power do Ecossistema SaaS B2B.
 
-ERA → [[02 - Pesquisas e Estudos/Ativas/Cursos/Método ERA - Afonso Lopes]] · Branding → [[02 - Pesquisas e Estudos/Ativas/Frameworks/Branding]]
+ERA → [[03 — Estudos e Referências/Ativas/Cursos/Método ERA - Afonso Lopes]] · Branding → [[03 — Estudos e Referências/Ativas/Frameworks/Branding]]
 
 ---

@@ -245,7 +245,7 @@ Ordenados por prioridade de impacto:
 
 ---
 
-Perfil → [[00 - Pessoal/Perfil]] · Família → [[01 - Profissional/Areas/Perfis Familiares]] · Proposta → [[01 - Profissional/Projetos/Holos/Proposta de Formalizacao Escopo]] · Lara → [[01 - Profissional/Projetos/Lara Comercial]] · Instruções → [[CLAUDE.md]]
+Perfil → [[00 — Quem Sou Nicolas/Perfil]] · Família → [[Arquivo não encontrado — ver conteúdo migrado]] · Proposta → [[Projetos/Holos/Proposta de Formalizacao Escopo]] · Lara → [[Projetos/Lara Comercial]] · Instruções → [[CLAUDE.md]]
 
 ---
-[[00 - Pessoal/Perfil]] | [[00 - Pessoal/Diagnóstico Real]] | [[_INDEX]]
+[[00 — Quem Sou Nicolas/Perfil]] | [[00 — Quem Sou Nicolas/Diagnóstico Real]] | [[_INDEX]]
