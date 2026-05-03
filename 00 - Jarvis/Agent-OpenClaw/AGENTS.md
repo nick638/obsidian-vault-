@@ -352,12 +352,30 @@ The goal: Be helpful without being annoying. Check in a few times a day, do usef
 
 O OpenClaw compacta automaticamente o contexto da sessão quando o histórico excede `contextTokens`. Antes de cada compactação:
 
-1. **Extrair decisões** → `/root/.openclaw/workspace/obsidian-vault/00 - Jarvis/shared/decisions-log.md`
-2. **Extrair lições** → `00 - Pessoal/Insights/` (arquivo apropriado)
-3. **Extrair pendências** → `/root/.openclaw/workspace/obsidian-vault/00 - Jarvis/shared/pending.md`
-4. **Atualizar estado de projetos** → `/root/.openclaw/workspace/obsidian-vault/00 - Jarvis/shared/project-state.md`
+## 🧩 Regras de Memória
 
-**Regra inviolável:** Sem essa extração, perde‑se 80% do contexto operacional. A compactação só deve ocorrer após a extração.
+### Carregado a cada sessão (bootstrap)
+- `SOUL.md` — personalidade
+- `USER.md` — contexto do humano
+- `AGENTS.md` — regras operacionais
+- `MEMORY.md` — índice de memória
+- `memory/sessions/` (hoje + ontem) — continuidade recente
+
+### Buscado sob demanda
+- `memory/context/*.md` — decisões, lições, pessoas, negócio
+- `memory/projects/*.md` — estado de cada projeto
+- `memory/feedback/*.json` — preferências de approve/reject
+- `memory/integrations/` — mapa de ferramentas
+
+### Extração obrigatória antes de compactação (INVIOLÁVEL)
+Antes de CADA compactação automática, extrair:
+1. **Decisões** → `memory/context/decisions.md` + `obsidian-vault/00 - Jarvis/shared/decisions-log.md`
+2. **Lições** → `memory/context/lessons.md`
+3. **Pendências** → `memory/pending.md` + `obsidian-vault/00 - Jarvis/shared/pending.md`
+4. **Estado de projetos** → `memory/projects/*.md` + `obsidian-vault/00 - Jarvis/shared/project-state.md`
+5. **Nota diária** → `memory/sessions/YYYY-MM-DD.md`
+
+**🚨 REGRA INVIOLÁVEL:** Sem essa extração, perde‑se 80% do contexto operacional. A compactação só deve ocorrer APÓS a extração completa.
 
 **Configuração atual:**
 ```json
