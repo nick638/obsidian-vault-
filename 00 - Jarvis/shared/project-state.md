@@ -1,6 +1,6 @@
 ---
-updated: 2026-04-30
-actor: jarvis-claude
+updated: 2026-05-15
+actor: openclaw-jarvis
 type: shared
 ---
 
@@ -10,23 +10,18 @@ type: shared
 
 | Projeto | Status | Bloqueio | Gate |
 |---|---|---|---|
+| Mapa da Alma | 🟢 frontend pronto | Checkout + deploy + vender | 1ª venda (prazo antigo: 15/maio, renovado) |
+| Proposta Formalização | 🟡 modelo fechado | Escopo pendente | 3 figit accounts: R$250 social + R$150 ads + 1% |
 | Lara Comercial 2 | 🟡 pronta p/ testar | ~~Conversa mãe~~ ✅ feita | Testar end-to-end + ativar |
 | Bumblebee 2.0 | 🔴 pronto | Conectar no WordPress Holos | Deploy |
-| Proposta Formalização | 🔴 urgente | Escopo não mapeado ainda | Montar escopo → reunião pai (semana 2/mai) |
-| Mapa da Alma | 🟡 build | Frontend + decisão de âncora (Holos ou Uni?) | 1ª venda até 15/maio |
 | Holos Natureza | 🟡 funil pronto | Aprovação da tia | Tia aprovar |
 | EAD Holos | 🟡 não lançado | Fórmula de Lançamento pendente | Aplicar FL na base ZenPro |
 
-## Gargalo atual (2026-04-30)
-Montar escopo completo do que Nicholas entrega pra Holos (hoje + futuro) → base da proposta de formalização.
-Prazo: antes de 5/maio (Imersão Ruptura).
-
-## Decisões estratégicas vigentes
-- Posicionamento: CTO de Plantão
-- Modelo: Retainer R$2k/mês + tabela 80% desconto família
-- Stack aprovada: Vercel + Next.js/Astro (Lovable = morta)
-- Análise de custo‑benefício disponível: [[analise-custo-beneficio-retainer-holos]]
-- Prompts para análise com IA: [[prompts-para-analise-retainer]]
+## Decisões estratégicas vigentes (15/maio)
+- **Mapa da Alma stack:** Astro + React + shadcn/ui + Tailwind ✅ Builderall dispensada ✅
+- **Proposta Formalização:** 3 figit accounts via Revolucio — foco em gerar negócio
+- **Posicionamento:** CTO de Plantão
+- **Stack aprovada:** Vercel + Next.js/Astro (Lovable = morta)
 
 ---
-_Teste de escrita bidirecional: editado por Jarvis (OpenClaw) em 2026‑04‑29 12:08._
+_Atualizado por Jarvis em 2026-05-15 17:20 BRT_
